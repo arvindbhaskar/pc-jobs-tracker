@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Daily Guidewire and Duck Creek job tracker for the top global P&C insurers." />
+  <title>P&C Core Systems Job Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">PC</div>
+        <div>
+          <h1>P&C Core Systems</h1>
+          <p class="tagline">Guidewire, Duck Creek &amp; Majesco roles at the top ~50 global P&amp;C insurers</p>
+        </div>
+      </div>
+      <div class="header-meta" id="headerMeta">
+        <span class="pill muted">Loading…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="stats" id="stats" aria-label="Summary"></section>
+
+    <section class="controls" aria-label="Filters">
+      <div class="search-wrap">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm10 2-5.4-5.4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="search" type="search" placeholder="Search title, company, country…" autocomplete="off" />
+      </div>
+      <div class="control-row">
+        <div class="tabs" role="tablist" aria-label="Platform">
+          <button type="button" class="tab active" data-platform="all" role="tab" aria-selected="true">All</button>
+          <button type="button" class="tab" data-platform="guidewire" role="tab" aria-selected="false">Guidewire</button>
+          <button type="button" class="tab" data-platform="duckcreek" role="tab" aria-selected="false">Duck Creek</button>
+          <button type="button" class="tab" data-platform="majesco" role="tab" aria-selected="false">Majesco</button>
+        </div>
+        <div class="selects">
+          <label class="sr-only" for="company">Company</label>
+          <select id="company"><option value="">All companies</option></select>
+          <label class="sr-only" for="country">Country</label>
+          <select id="country"><option value="">All countries</option></select>
+          <label class="sr-only" for="sort">Sort</label>
+          <select id="sort">
+            <option value="newest">Newest first</option>
+            <option value="company">Company A–Z</option>
+            <option value="title">Title A–Z</option>
+          </select>
+        </div>
+      </div>
+      <p class="result-count" id="resultCount"></p>
+    </section>
+
+    <section id="list" class="list" aria-live="polite"></section>
+    <p id="empty" class="empty hidden">No postings match these filters.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>Weekday watches check each insurer’s careers site first, then region-fit boards. Employers are verified on-page before a role is listed. Alerts fire only for new postings.</p>
+      <p class="footer-note">Data refreshed from the Jobs Researcher monitors · Not affiliated with Guidewire or Duck Creek</p>
+    </div>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

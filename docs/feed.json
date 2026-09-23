@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-22",
+  "generatedAt": "2026-09-23",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-09-22",
+      "asOf": "2026-09-23",
       "postingCount": 43,
       "lastRun": {
-        "asOf": "2026-09-22",
+        "asOf": "2026-09-23",
         "newCount": 0,
         "insurersChecked": 60,
         "insurersAttempted": 50
@@ -577,11 +577,11 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-09-22",
-      "postingCount": 10,
+      "asOf": "2026-09-23",
+      "postingCount": 11,
       "lastRun": {
-        "asOf": "2026-09-22",
-        "newCount": 0,
+        "asOf": "2026-09-23",
+        "newCount": 1,
         "insurersChecked": 49,
         "insurersAttempted": 50
       },
@@ -715,15 +715,28 @@
           "snippet": "Support Lead for Duck Creek \u2014 Duck Creek policy system expertise; configuration/customization; APIs/integrations. Bogota, Colombia. Official Chubb External careers OG. Job 30227.",
           "foundAt": "2026-09-15T13:08:07Z",
           "verificationOk": true
+        },
+        {
+          "id": "e325dd5ecd6f35ca",
+          "platform": "duckcreek",
+          "title": "Commercial Insurance Product Lead/Expert Produit et souscription Assurances Professionnelles",
+          "company": "Chubb Ltd.",
+          "verifiedEmployer": "Chubb External",
+          "country": "France",
+          "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/34660",
+          "source": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/34660",
+          "snippet": "oss multiple digital streams, including Duck Creek, EXP, OneHub, pricing, portfolio insights, and advanced analytics - Drive continuous portfolio improvement through insight-led appet...",
+          "foundAt": "2026-09-23T13:38:39Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-09-22",
+      "asOf": "2026-09-23",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-09-22",
+        "asOf": "2026-09-23",
         "newCount": 0,
         "insurersChecked": 49,
         "insurersAttempted": 50

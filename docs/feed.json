@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-25",
+  "generatedAt": "2026-09-28",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-09-25",
-      "postingCount": 43,
+      "asOf": "2026-09-28",
+      "postingCount": 44,
       "lastRun": {
-        "asOf": "2026-09-25",
-        "newCount": 0,
+        "asOf": "2026-09-28",
+        "newCount": 1,
         "insurersChecked": 60,
         "insurersAttempted": 50
       },
@@ -572,17 +572,30 @@
           "snippet": "Senior Technical Engineering Leader for Guidewire PolicyCenter & Policy Lifecycle; technical leadership for PolicyCenter engineering. Webster MA. Employer MAPFRE.",
           "foundAt": "2026-09-15T13:01:37Z",
           "verificationOk": true
+        },
+        {
+          "id": "22c1cca217eb82aa",
+          "platform": "guidewire",
+          "title": "P&amp;C Solution Architect (All Guidewire Centers &amp; Zurich Solutions) (m/f/d)",
+          "company": "Zurich Insurance Group AG",
+          "verifiedEmployer": "Zurich Insurance Company Ltd.",
+          "country": "Switzerland",
+          "url": "https://www.careers.zurich.com/job/Z%C3%BCrich-P&amp;C-Solution-Architect-%28All-Guidewire-Centers-&amp;-Zurich-Solutions%29-%28mfd%29/1373274457/",
+          "source": "https://www.careers.zurich.com/job/Z%C3%BCrich-P&amp;C-Solution-Architect-%28All-Guidewire-Centers-&amp;-Zurich-Solutions%29-%28mfd%29/1373274457/",
+          "snippet": "P&amp;C Solution Architect (All Guidewire Centers &amp; Zurich Solutions) (m/f/d)",
+          "foundAt": "2026-09-28T12:56:10Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-09-25",
+      "asOf": "2026-09-28",
       "postingCount": 11,
       "lastRun": {
-        "asOf": "2026-09-25",
+        "asOf": "2026-09-28",
         "newCount": 0,
-        "insurersChecked": 48,
+        "insurersChecked": 49,
         "insurersAttempted": 50
       },
       "postings": [
@@ -733,10 +746,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-09-25",
+      "asOf": "2026-09-28",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-09-25",
+        "asOf": "2026-09-28",
         "newCount": 0,
         "insurersChecked": 49,
         "insurersAttempted": 50

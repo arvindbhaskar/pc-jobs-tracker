@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-09-29",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "postingCount": 44,
       "lastRun": {
-        "asOf": "2026-09-28",
-        "newCount": 1,
+        "asOf": "2026-09-29",
+        "newCount": 0,
         "insurersChecked": 60,
         "insurersAttempted": 50
       },
@@ -590,12 +590,12 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "postingCount": 11,
       "lastRun": {
-        "asOf": "2026-09-28",
+        "asOf": "2026-09-29",
         "newCount": 0,
-        "insurersChecked": 49,
+        "insurersChecked": 48,
         "insurersAttempted": 50
       },
       "postings": [
@@ -746,12 +746,12 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-09-28",
+        "asOf": "2026-09-29",
         "newCount": 0,
-        "insurersChecked": 49,
+        "insurersChecked": 48,
         "insurersAttempted": 50
       },
       "postings": []

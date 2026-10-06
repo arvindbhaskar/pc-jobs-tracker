@@ -6,7 +6,7 @@
     "guidewire": {
       "label": "Guidewire",
       "asOf": "2026-10-06",
-      "postingCount": 58,
+      "postingCount": 42,
       "lastRun": {
         "asOf": "2026-10-06",
         "newCount": 14,
@@ -24,110 +24,6 @@
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Specialist_100029",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Configure/develop/integrate Guidewire PolicyCenter (also BillingCenter/ClaimCenter). Hyderabad. Req 100029.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "273890f71f0f711a",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter Developer- Senior Engineer",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Senior-Engineer_100026",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Senior Guidewire Software Engineer focused on PolicyCenter configuration, integrations, InsuranceSuite. Hyderabad. Req 100026.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "719685c4400e7ee4",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter Technology Analyst, Specialist",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Technology-Analyst--Specialist_100050",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Technology Analyst with Guidewire PolicyCenter among integration/API tech stack. Hyderabad. Req 100050.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "804d1aff7c1c629b",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter, Technology Analyst - India",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter--Technology-Analyst---India_100025",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Technology Analyst spanning Java Spring Boot, Guidewire PolicyCenter, Informatica. Hyderabad. Req 100025.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "f5c55014d2e028ee",
-          "platform": "guidewire",
-          "title": "Specialist, Scrum Master - India (Guidewire InsuranceNow, Data Analytics)",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Specialist--Scrum-Master---India--Guidewire-InsuranceNow--Data-Analytics-_100249",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Scrum Master supporting Guidewire InsuranceNow (GIN) / Data Analytics teams. Hyderabad. Req 100249.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "7f5dc6ec63711065",
-          "platform": "guidewire",
-          "title": "Sr Analyst, Quality Engineer - India",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Sr-Analyst--Quality-Engineer---India_099356",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Quality Engineer supporting ESS teams working on Guidewire InsuranceNow; foundational QA capability. Hyderabad. Req 099356.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "63d8bd75741d452d",
-          "platform": "guidewire",
-          "title": "Sr. Consultant, Software Engineer | Engineering Strategy & Modernization Lead",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer---Engineering-Strategy---Modernization-Lead_098984",
-          "source": "Nationwide Workday (US)",
-          "snippet": "Columbus OH role spanning Guidewire modernization among other priorities. Emp: Nationwide Life and Annuity. Req 098984.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "688e579bda2c391a",
-          "platform": "guidewire",
-          "title": "Software Engineer II - Guidewire Policy Center Configuration",
-          "company": "The Travelers Companies, Inc.",
-          "verifiedEmployer": "Travelers",
-          "country": "United States",
-          "url": "https://careers.travelers.com/job/23451135/software-engineer-ii-guidewire-policy-center-configuration-hartford-ct/",
-          "source": "Travelers Careers",
-          "snippet": "Guidewire PolicyCenter configuration / software engineering (Hartford CT). JSON-LD hiringOrganization=Travelers. Req R-50728.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "28212c9051d3a938",
-          "platform": "guidewire",
-          "title": "Software Engineer I - Guidewire Policy Configuration",
-          "company": "The Travelers Companies, Inc.",
-          "verifiedEmployer": "020 Travelers Indemnity Co",
-          "country": "United States",
-          "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545",
-          "source": "Travelers Workday",
-          "snippet": "Software Engineer I - Guidewire Policy Configuration. Emp: 020 Travelers Indemnity Co. Req R-51545. Canonical Workday URL.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -236,19 +132,6 @@
           "verificationOk": true
         },
         {
-          "id": "b601ec7d71f7115d",
-          "platform": "guidewire",
-          "title": "ZCC integration developer",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "Mexico",
-          "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-ZCC-integration-developer/1361482157/",
-          "source": "Zurich Careers",
-          "snippet": "ZCC integration developer requiring Guidewire PolicyCenter / broader Guidewire suite and Integration Gateway experience. Mexico City (Toreo).",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
           "id": "b5cabade09104710",
           "platform": "guidewire",
           "title": "Senior Integration Developer",
@@ -258,19 +141,6 @@
           "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Senior-Integration-Developer/1361620157/",
           "source": "Zurich Careers",
           "snippet": "Senior Integrations Developer / Guidewire Developer (PolicyCenter / Integration) at Zurich Capability Center, Mexico City.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "81884013daa3d1a6",
-          "platform": "guidewire",
-          "title": "Business System Analyst",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "United States",
-          "url": "https://www.careers.zurich.com/job/Virtual-Business-System-Analyst-NM/1358861057/",
-          "source": "Zurich Careers",
-          "snippet": "BSA for features/enhancements related to Guidewire PolicyCenter, BillingCenter, ClaimsCenter modules. Virtual NM, US.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -405,32 +275,6 @@
           "verificationOk": true
         },
         {
-          "id": "dce6d0c290c1b4d1",
-          "platform": "guidewire",
-          "title": "AVP, GWPC Technical Manager",
-          "company": "Sompo Holdings Inc. (Sompo International)",
-          "verifiedEmployer": "Endurance Services Limited (US)",
-          "country": "United States",
-          "url": "https://endurance.wd103.myworkdayjobs.com/en-US/SompoInternational/job/Purchase-New-York/AVP--GWPC-Technical-Manager_R3579",
-          "source": "Sompo International Workday",
-          "snippet": "AVP, GWPC (Guidewire PolicyCenter) Technical Manager. Emp: Endurance Services Limited (US). Purchase, NY. Req R3579.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "9e7f422830d9586e",
-          "platform": "guidewire",
-          "title": "VP, Insurance Policy Platform Manager",
-          "company": "Sompo Holdings Inc. (Sompo International)",
-          "verifiedEmployer": "Endurance Business Services Ltd. (UK)",
-          "country": "United States",
-          "url": "https://endurance.wd103.myworkdayjobs.com/en-US/SompoInternational/job/Conshohocken-Pennsylvania/VP--Insurance-Policy-Platform-Manager_R4312-1",
-          "source": "Sompo International Workday",
-          "snippet": "Application owner for the Guidewire Policy Center platform (architecture, delivery, performance). Emp: Endurance Business Services Ltd. (UK). Conshohocken, PA.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
           "id": "eb83fbb352e19bbb",
           "platform": "guidewire",
           "title": "Solutions Engineer/Technical Lead, Software (Guidewire Policy Center)",
@@ -441,32 +285,6 @@
           "source": "Liberty Mutual Phenom",
           "snippet": "y landscape. Description Architect and implement integrations between Guidewire and external systems leveraging the Guidewire Integration Framework and APIs. Design and configure Guidewire modules tailored to client business requirements. C",
           "foundAt": "2026-09-14T13:06:32Z",
-          "verificationOk": true
-        },
-        {
-          "id": "5e66e28f85355d27",
-          "platform": "guidewire",
-          "title": "Test Manager",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "Mexico",
-          "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Test-Manager/1368956857/",
-          "source": "Zurich careers",
-          "snippet": "testing projects \u2022QA team management \u2022Experience with Guidewire Policy Center \u2022Playwright, Jira (mandatory), Visual Studio Code - BitBucket for PRs \u2022Advanced English \u2022Vacancy available only to residents of CDMX, EDOMEX, and GDL (M",
-          "foundAt": "2026-09-14T13:06:33Z",
-          "verificationOk": true
-        },
-        {
-          "id": "070ef3c320eec53b",
-          "platform": "guidewire",
-          "title": "Business Analyst mit Fokus Integration (m/w/d)",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "Switzerland",
-          "url": "https://www.careers.zurich.com/job/Z%C3%BCrich-Business-Analyst-mit-Fokus-Integration-%28mwd%29/1371690457/",
-          "source": "Zurich careers",
-          "snippet": "t und dokumentierst Prozess- und Schnittstellenanforderungen zwischen Guidewire und angrenzenden Zurich Systemen entlang der P&amp;C Wertsch\u00f6pfungskette <li style=\"margin:0.0cm 0.0cm 0.0cm 0.4px;line-height:normal;font-size:12.0pt;font-fami",
-          "foundAt": "2026-09-14T13:06:35Z",
           "verificationOk": true
         },
         {
@@ -496,19 +314,6 @@
           "verificationOk": true
         },
         {
-          "id": "6d2ee174087953e2",
-          "platform": "guidewire",
-          "title": "Lead Guidewire Architect",
-          "company": "QBE Insurance Group Ltd.",
-          "verifiedEmployer": "GBR1 QBE Management Services (UK) Ltd",
-          "country": "United Kingdom",
-          "url": "https://qbe.wd3.myworkdayjobs.com/en-US/QBE-Careers/job/GBR---London/Lead-Guidewire-Architect_358271",
-          "source": "QBE Workday",
-          "snippet": "l\" href=\"https://qbe.wd3.myworkdayjobs.com/en-US/QBE-Careers/job/Lead-Guidewire-Architect_358271\" /> <meta name=\"description\" property=\"og:description\" conten",
-          "foundAt": "2026-09-14T13:06:38Z",
-          "verificationOk": true
-        },
-        {
           "id": "1639d6149a56fafd",
           "platform": "guidewire",
           "title": "IT Business Analyst",
@@ -519,19 +324,6 @@
           "source": "QBE Workday",
           "snippet": "xtensive experience in systems used in Consumer Lines such as Change, Guidewire, and Evolve. Solid experience in IT, with exposure to business process re-engineering, commercial analysis, development and monitoring of SLAs, and business tra",
           "foundAt": "2026-09-14T13:06:39Z",
-          "verificationOk": true
-        },
-        {
-          "id": "cbb47aa76595209f",
-          "platform": "guidewire",
-          "title": "Program Manager - Claims Cloud Transformation",
-          "company": "QBE Insurance Group Ltd.",
-          "verifiedEmployer": "GBR1 QBE Management Services (UK) Ltd",
-          "country": "United Kingdom",
-          "url": "https://qbe.wd3.myworkdayjobs.com/en-US/QBE-Careers/job/GBR---London/Program-Manager---Claims-Cloud-Transformation_360039",
-          "source": "QBE Workday",
-          "snippet": "ale, complex transformational migration programmes, ideally involving Guidewire products, otherwise enterprise platform replacement. Proven experience managing programmes lasting multiple years and spanning multiple business and technology ",
-          "foundAt": "2026-09-14T13:06:40Z",
           "verificationOk": true
         },
         {

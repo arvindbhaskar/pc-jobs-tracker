@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-06",
+  "generatedAt": "2026-10-07",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-06",
-      "postingCount": 42,
+      "asOf": "2026-10-07",
+      "postingCount": 46,
       "lastRun": {
-        "asOf": "2026-10-06",
-        "newCount": 14,
+        "asOf": "2026-10-07",
+        "newCount": 1,
         "insurersChecked": 49,
         "insurersAttempted": 50
       },
@@ -24,6 +24,58 @@
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Specialist_100029",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Configure/develop/integrate Guidewire PolicyCenter (also BillingCenter/ClaimCenter). Hyderabad. Req 100029.",
+          "foundAt": "2026-09-14T05:55:00Z",
+          "verificationOk": true
+        },
+        {
+          "id": "273890f71f0f711a",
+          "platform": "guidewire",
+          "title": "Guidewire PolicyCenter Developer- Senior Engineer",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Senior-Engineer_100026",
+          "source": "Nationwide Workday (India GSC)",
+          "snippet": "Senior Guidewire Software Engineer focused on PolicyCenter configuration, integrations, InsuranceSuite. Hyderabad. Req 100026.",
+          "foundAt": "2026-09-14T05:55:00Z",
+          "verificationOk": true
+        },
+        {
+          "id": "719685c4400e7ee4",
+          "platform": "guidewire",
+          "title": "Guidewire PolicyCenter Technology Analyst, Specialist",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Technology-Analyst--Specialist_100050",
+          "source": "Nationwide Workday (India GSC)",
+          "snippet": "Technology Analyst with Guidewire PolicyCenter among integration/API tech stack. Hyderabad. Req 100050.",
+          "foundAt": "2026-09-14T05:55:00Z",
+          "verificationOk": true
+        },
+        {
+          "id": "804d1aff7c1c629b",
+          "platform": "guidewire",
+          "title": "Guidewire PolicyCenter, Technology Analyst - India",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter--Technology-Analyst---India_100025",
+          "source": "Nationwide Workday (India GSC)",
+          "snippet": "Technology Analyst spanning Java Spring Boot, Guidewire PolicyCenter, Informatica. Hyderabad. Req 100025.",
+          "foundAt": "2026-09-14T05:55:00Z",
+          "verificationOk": true
+        },
+        {
+          "id": "7f5dc6ec63711065",
+          "platform": "guidewire",
+          "title": "Sr Analyst, Quality Engineer - India",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Sr-Analyst--Quality-Engineer---India_099356",
+          "source": "Nationwide Workday (India GSC)",
+          "snippet": "Quality Engineer supporting ESS teams working on Guidewire InsuranceNow; foundational QA capability. Hyderabad. Req 099356.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -206,19 +258,6 @@
           "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Product-Owner---Property--Guidewire-_R14757",
           "source": "National Indemnity Workday",
           "snippet": "Product Owner for Property / Guidewire initiatives. Omaha. Emp: NICO National Indemnity Company. Req R14757.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "23e605c2ce42ad4d",
-          "platform": "guidewire",
-          "title": "Senior Software Quality Assurance Engineer (Guidewire)",
-          "company": "Berkshire Hathaway Inc. (National Indemnity)",
-          "verifiedEmployer": "NICO National Indemnity Company",
-          "country": "United States",
-          "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Senior-Software-Quality-Assurance-Engineer--Guidewire-_R14838",
-          "source": "National Indemnity Workday",
-          "snippet": "QA planning/testing including Guidewire suite. Omaha. Emp: NICO National Indemnity Company. Req R14838.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -461,7 +500,7 @@
           "platform": "guidewire",
           "title": "Product Operations Rating Analyst",
           "company": "Munich Re",
-          "verifiedEmployer": "American Modern Insurance Group (JSON-LD: ERGO | Munich Re | MEAG)",
+          "verifiedEmployer": "ERGO | Munich Re | MEAG",
           "country": "United States",
           "url": "https://careers.munichre.com/en/job/amelia/product-operations-rating-analyst/3342/45153217600",
           "source": "careers.munichre.com /en/search-jobs (Guidewire)",
@@ -474,7 +513,7 @@
           "platform": "guidewire",
           "title": "Product Operations Rating Manager",
           "company": "Munich Re",
-          "verifiedEmployer": "American Modern Insurance Group (JSON-LD: ERGO | Munich Re | MEAG)",
+          "verifiedEmployer": "ERGO | Munich Re | MEAG",
           "country": "United States",
           "url": "https://careers.munichre.com/en/job/amelia/product-operations-rating-manager/3342/45153217728",
           "source": "careers.munichre.com /en/search-jobs (Guidewire)",
@@ -487,7 +526,7 @@
           "platform": "guidewire",
           "title": "Project Manager",
           "company": "Munich Re",
-          "verifiedEmployer": "Munich Re Specialty - Global Markets (JSON-LD: ERGO | Munich Re | MEAG)",
+          "verifiedEmployer": "ERGO | Munich Re | MEAG",
           "country": "United Kingdom",
           "url": "https://careers.munichre.com/en/job/london/project-manager/3342/44351243456",
           "source": "careers.munichre.com /en/search-jobs (Guidewire)",
@@ -500,7 +539,7 @@
           "platform": "guidewire",
           "title": "Project Manager",
           "company": "Munich Re",
-          "verifiedEmployer": "Munich Re Specialty - Global Markets (JSON-LD: ERGO | Munich Re | MEAG)",
+          "verifiedEmployer": "ERGO | Munich Re | MEAG",
           "country": "United Kingdom",
           "url": "https://careers.munichre.com/en/job/manchester/project-manager/3342/44351243008",
           "source": "careers.munichre.com /en/search-jobs (Guidewire)",
@@ -539,7 +578,7 @@
           "platform": "guidewire",
           "title": "\u3010\u6c60\u888b/\u30ea\u30fc\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2\u3011\u30b3\u30a2\u30b7\u30b9\u30c6\u30e0\u306e\u5237\u65b0\u3092\u62c5\u3046/\u5e74\u4f11130\u65e5/\u30ea\u30e2\u30fc\u30c8\u53ef \u793e\u5185\u30b7\u30b9\u30c6\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2",
           "company": "Sompo Holdings Inc.",
-          "verifiedEmployer": "SOMPO\u30c0\u30a4\u30ec\u30af\u30c8\u640d\u5bb3\u4fdd\u967a\u682a\u5f0f\u4f1a\u793e (SOMPO Direct)",
+          "verifiedEmployer": "SOMPO\u30c0\u30a4\u30ec\u30af\u30c8\u640d\u5bb3\u4fdd\u967a\u682a\u5f0f\u4f1a\u793e",
           "country": "Japan",
           "url": "https://www.r-agent.com/viewjob/jkac150485a8e83fc0/",
           "source": "Recruit Agent (JP recruiting-agency aggregator); no canonical SOMPO Direct page found",
@@ -552,24 +591,37 @@
           "platform": "guidewire",
           "title": "\u3010\u6c60\u888b/\u793e\u5185SE\u3011\u30b3\u30a2\u30b7\u30b9\u30c6\u30e0\u306e\u5237\u65b0\u3092\u62c5\u3046/\u5e74\u4f11130\u65e5/\u30ea\u30e2\u30fc\u30c8\u53ef \u793e\u5185\u30b7\u30b9\u30c6\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2",
           "company": "Sompo Holdings Inc.",
-          "verifiedEmployer": "SOMPO\u30c0\u30a4\u30ec\u30af\u30c8\u640d\u5bb3\u4fdd\u967a\u682a\u5f0f\u4f1a\u793e (SOMPO Direct)",
+          "verifiedEmployer": "SOMPO\u30c0\u30a4\u30ec\u30af\u30c8\u640d\u5bb3\u4fdd\u967a\u682a\u5f0f\u4f1a\u793e",
           "country": "Japan",
           "url": "https://www.r-agent.com/viewjob/jk34473a4fb4c4cfeb/",
           "source": "Recruit Agent (JP recruiting-agency aggregator); no canonical SOMPO Direct page found",
           "snippet": "Guidewire Cloud\u57fa\u76e4\u306e\u30b3\u30a2\u30b7\u30b9\u30c6\u30e0\u5168\u9762\u5237\u65b0\u304a\u3088\u3073\u5185\u88fd\u5316... Guidewire\u4e2d\u5fc3\u306e\u958b\u767a\u30fb\u4fdd\u5b88. Ikebukuro, Tokyo. datePosted 2026-08-27. AGGREGATOR-ONLY.",
           "foundAt": "2026-10-06T13:21:13Z",
           "verificationOk": true
+        },
+        {
+          "id": "51eda20d7e011471",
+          "platform": "guidewire",
+          "title": "Specialist Software Engineer - IBM ACE Integration Specialist",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "India",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Specialist-Software-Engineer---IBM-ACE-Integration-Specialist_100028",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
+          "snippet": "Design, enhance, and support IBM ACE integrations that connect Guidewire PolicyCenter and other services through secure APIs, message routing, and payload transformation; support the CL ETL Batch pipeline that takes PolicyCenter transaction data through IDS/Oracle processing into downstream extracts and statistical records. Hyderabad (Nationwide GSC). Posted 2026-10-07.",
+          "foundAt": "2026-10-07T13:00:41Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-06",
-      "postingCount": 9,
+      "asOf": "2026-10-07",
+      "postingCount": 12,
       "lastRun": {
-        "asOf": "2026-10-06",
-        "newCount": 0,
-        "insurersChecked": 49,
+        "asOf": "2026-10-07",
+        "newCount": 3,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
@@ -689,17 +741,56 @@
           "snippet": "oss multiple digital streams, including Duck Creek, EXP, OneHub, pricing, portfolio insights, and advanced analytics - Drive continuous portfolio improvement through insight-led appet...",
           "foundAt": "2026-09-23T13:38:39Z",
           "verificationOk": true
+        },
+        {
+          "id": "7f08c689aabf86cb",
+          "platform": "duckcreek",
+          "title": "AVP, Business Solutions",
+          "company": "Arch Capital Group Ltd.",
+          "verifiedEmployer": "14400 Arch Insurance Group Inc.",
+          "country": "United States",
+          "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Home-Base-NY/AVP--Business-Solutions_R26_1098",
+          "source": "Workday archgroup.wd1.myworkdayjobs.com/careers",
+          "snippet": "le commercial and specialty Underwriting Systems (DuckCreek, Guidewire, Unqork, UW Platforms, etc.) and demonstrated value creation and business outcomes \u2022 Excellent written and oral communication skills, including the a",
+          "foundAt": "2026-10-07T13:09:14Z",
+          "verificationOk": true
+        },
+        {
+          "id": "c7dd639ca322b9c3",
+          "platform": "duckcreek",
+          "title": "Senior Product Owner",
+          "company": "Arch Capital Group Ltd.",
+          "verifiedEmployer": "14101 Arch Europe Insurance Services Ltd",
+          "country": "United Kingdom",
+          "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/London-United-Kingdom/Senior-Product-Owner_R26_515",
+          "source": "Workday archgroup.wd1.myworkdayjobs.com/careers",
+          "snippet": "of large scale commercial and specialty systems (DuckCreek, Guidewire, Unqork, UW Platforms, Submission &amp; Clearance Systems, Extraction or AI-driven platforms etc.) and demonstrated value creation and business outco",
+          "foundAt": "2026-10-07T13:09:17Z",
+          "verificationOk": true
+        },
+        {
+          "id": "4e32140a574ed7d6",
+          "platform": "duckcreek",
+          "title": "Senior Product Owner",
+          "company": "Arch Capital Group Ltd.",
+          "verifiedEmployer": "14101 Arch Europe Insurance Services Ltd",
+          "country": "United Kingdom",
+          "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/London-United-Kingdom/Senior-Product-Owner_R26_501",
+          "source": "Workday archgroup.wd1.myworkdayjobs.com/careers",
+          "snippet": "of large scale commercial and specialty systems (DuckCreek, Guidewire, Unqork, UW Platforms, Submission &amp; Clearance Systems, Extraction or AI-driven platforms etc.) and demonstrated value creation and business outco",
+          "foundAt": "2026-10-07T13:09:18Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-06",
+      "asOf": "2026-10-07",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-06",
+        "asOf": "2026-10-07",
         "newCount": 0,
-        "insurersChecked": 47,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": []

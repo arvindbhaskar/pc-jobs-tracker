@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-07",
+  "generatedAt": "2026-10-08",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-07",
-      "postingCount": 46,
+      "asOf": "2026-10-08",
+      "postingCount": 47,
       "lastRun": {
-        "asOf": "2026-10-07",
+        "asOf": "2026-10-08",
         "newCount": 1,
-        "insurersChecked": 49,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
@@ -611,16 +611,29 @@
           "snippet": "Design, enhance, and support IBM ACE integrations that connect Guidewire PolicyCenter and other services through secure APIs, message routing, and payload transformation; support the CL ETL Batch pipeline that takes PolicyCenter transaction data through IDS/Oracle processing into downstream extracts and statistical records. Hyderabad (Nationwide GSC). Posted 2026-10-07.",
           "foundAt": "2026-10-07T13:00:41Z",
           "verificationOk": true
+        },
+        {
+          "id": "c592cc78200b782c",
+          "platform": "guidewire",
+          "title": "Travel Digital & Automation - Global Product Owner",
+          "company": "AXA SA",
+          "verifiedEmployer": "AXA (AXA Partners, Travel business line)",
+          "country": "Spain",
+          "url": "https://careers.axa.com/careers-home/jobs/24839?lang=en-us",
+          "source": "careers.axa.com /api/jobs?keywords=Guidewire (+ClaimCenter)",
+          "snippet": "Global Product Owner for AXA Partners' Travel Claims Management product: 'overall responsible for the Travel Claims Management product Guidewire and interface support'; orchestrates with Guidewire ClaimCenter, customer-facing/back-end solutions and AI/GenAI components; owns all Claim Management system backlogs. Barcelona. Fixed/short-term contract. Posted 2026-10-07.",
+          "foundAt": "2026-10-08T13:07:44Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "postingCount": 12,
       "lastRun": {
-        "asOf": "2026-10-07",
-        "newCount": 3,
+        "asOf": "2026-10-08",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },

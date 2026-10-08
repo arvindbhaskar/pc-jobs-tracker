@@ -798,10 +798,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-07",
+        "asOf": "2026-10-08",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

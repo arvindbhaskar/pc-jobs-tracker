@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-08",
+  "generatedAt": "2026-10-09",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-09",
       "postingCount": 47,
       "lastRun": {
-        "asOf": "2026-10-08",
+        "asOf": "2026-10-09",
         "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -353,19 +353,6 @@
           "verificationOk": true
         },
         {
-          "id": "1639d6149a56fafd",
-          "platform": "guidewire",
-          "title": "IT Business Analyst",
-          "company": "QBE Insurance Group Ltd.",
-          "verifiedEmployer": "GBR1 QBE Management Services (UK) Ltd",
-          "country": "United Kingdom",
-          "url": "https://qbe.wd3.myworkdayjobs.com/en-US/QBE-Careers/job/GBR---London/IT-Business-Analyst_359231",
-          "source": "QBE Workday",
-          "snippet": "xtensive experience in systems used in Consumer Lines such as Change, Guidewire, and Evolve. Solid experience in IT, with exposure to business process re-engineering, commercial analysis, development and monitoring of SLAs, and business tra",
-          "foundAt": "2026-09-14T13:06:39Z",
-          "verificationOk": true
-        },
-        {
           "id": "2a612c9efdb2bbde",
           "platform": "guidewire",
           "title": "Senior Business Analyst - Guidewire",
@@ -624,15 +611,28 @@
           "snippet": "Global Product Owner for AXA Partners' Travel Claims Management product: 'overall responsible for the Travel Claims Management product Guidewire and interface support'; orchestrates with Guidewire ClaimCenter, customer-facing/back-end solutions and AI/GenAI components; owns all Claim Management system backlogs. Barcelona. Fixed/short-term contract. Posted 2026-10-07.",
           "foundAt": "2026-10-08T13:07:44Z",
           "verificationOk": true
+        },
+        {
+          "id": "5438d9177e5999f2",
+          "platform": "guidewire",
+          "title": "Senior Software Developer (Guidewire/Java/Angular) Bilingual (FR/EN)",
+          "company": "Intact Financial Corp.",
+          "verifiedEmployer": "Intact Financial Corporation",
+          "country": "Canada",
+          "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Hyacinthe-Quebec-CAN/Senior-Software-Developer--Guidewire-Java-Angular--Bilingual--FR-EN-_R155840",
+          "source": "Workday intactfc.wd3.myworkdayjobs.com/intactfc",
+          "snippet": "Intact is deploying a billing and collection system across all Intact companies and provinces and is looking for a Guidewire Developer to support the migration of the Guidewire BillingCenter platform to Guidewire's Cloud SaaS version (T Billing Development team).",
+          "foundAt": "2026-10-09T13:14:38Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-09",
       "postingCount": 12,
       "lastRun": {
-        "asOf": "2026-10-08",
+        "asOf": "2026-10-09",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -798,10 +798,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-09",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-08",
+        "asOf": "2026-10-09",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

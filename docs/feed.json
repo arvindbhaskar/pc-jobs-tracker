@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-09",
+  "generatedAt": "2026-10-12",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-09",
-      "postingCount": 47,
+      "asOf": "2026-10-12",
+      "postingCount": 51,
       "lastRun": {
-        "asOf": "2026-10-09",
-        "newCount": 1,
+        "asOf": "2026-10-12",
+        "newCount": 4,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -604,7 +604,7 @@
           "platform": "guidewire",
           "title": "Travel Digital & Automation - Global Product Owner",
           "company": "AXA SA",
-          "verifiedEmployer": "AXA (AXA Partners, Travel business line)",
+          "verifiedEmployer": "AXA",
           "country": "Spain",
           "url": "https://careers.axa.com/careers-home/jobs/24839?lang=en-us",
           "source": "careers.axa.com /api/jobs?keywords=Guidewire (+ClaimCenter)",
@@ -624,15 +624,67 @@
           "snippet": "Intact is deploying a billing and collection system across all Intact companies and provinces and is looking for a Guidewire Developer to support the migration of the Guidewire BillingCenter platform to Guidewire's Cloud SaaS version (T Billing Development team).",
           "foundAt": "2026-10-09T13:14:38Z",
           "verificationOk": true
+        },
+        {
+          "id": "aabd4492c8e44036",
+          "platform": "guidewire",
+          "title": "Principal Solution Architect - Guidewire",
+          "company": "Insurance Australia Group Ltd. (IAG)",
+          "verifiedEmployer": "IAG AUS",
+          "country": "Australia",
+          "url": "https://careers.iag.com.au/global/en/job/50678",
+          "source": "IAG Phenom careers.iag.com.au (search-results?keywords=Guidewire, phApp.ddo)",
+          "snippet": "Principal Solution Architect to lead solution architecture across IAG's core Guidewire platforms (PolicyCenter and BillingCenter) for Retail Technology: large-scale transformation, cloud adoption, integration; seeks senior Guidewire architect (Guidewire Certified ACE).",
+          "foundAt": "2026-10-12T13:15:52Z",
+          "verificationOk": true
+        },
+        {
+          "id": "0ad8a56211dabf12",
+          "platform": "guidewire",
+          "title": "Senior Test Automation Engineer (Insurance)",
+          "company": "Insurance Australia Group Ltd. (IAG)",
+          "verifiedEmployer": "IAG AUS",
+          "country": "Australia",
+          "url": "https://careers.iag.com.au/global/en/job/50882",
+          "source": "IAG Phenom careers.iag.com.au (search-results?keywords=Guidewire, phApp.ddo)",
+          "snippet": "Design, develop and maintain scalable automation frameworks for Guidewire applications; deliver end-to-end testing across PolicyCenter, integrations and APIs; requires experience testing Guidewire applications and integrations.",
+          "foundAt": "2026-10-12T13:15:52Z",
+          "verificationOk": true
+        },
+        {
+          "id": "6f40d2831310299e",
+          "platform": "guidewire",
+          "title": "\u3010\u640d\u5bb3\u672c\u90e8/\u30a2\u30d7\u30eaSE\u3011Guidewire\u3092\u7528\u3044\u305f\u30a2\u30d7\u30ea\u958b\u767a/\u5728\u5b85\u53ef",
+          "company": "Tokio Marine Holdings Inc.",
+          "verifiedEmployer": "\u6771\u4eac\u6d77\u4e0a\u65e5\u52d5\u30b7\u30b9\u30c6\u30e0\u30ba\u682a\u5f0f\u4f1a\u793e (Tokio Marine & Nichido Systems Co., Ltd.)",
+          "country": "Japan",
+          "url": "https://www.r-agent.com/viewjob/jk62a71d240903eb8b/",
+          "source": "Recruit Agent (JP recruiting-agency aggregator); TMN Systems own career page has no public job list (axol login-only)",
+          "snippet": "Claims-services (FNOL to payment) system dev/maintenance at Tokio Marine & Nichido Systems; application development on Guidewire ClaimCenter; REQUIRED: design/dev experience with Guidewire ClaimCenter. 2 openings. datePosted 2026-07-22 (first captured this run). AGGREGATOR-ONLY.",
+          "foundAt": "2026-10-12T13:15:52Z",
+          "verificationOk": true
+        },
+        {
+          "id": "dedc95d5ceda52ef",
+          "platform": "guidewire",
+          "title": "D\u00e9veloppeur - Transformation SI IARD & Guidewire (F/H)",
+          "company": "A\u00e9ma Groupe",
+          "verifiedEmployer": "MACIF",
+          "country": "France",
+          "url": "https://lesjeudis.com/offers/developpeur-transformation-si-iard-guidewire-f-h-7a28db60",
+          "source": "LesJeudis (FR IT job board); canonical macif.fr catalogue-des-offres 403 bot-gated (curl + headless Chrome), recrutement.macif.fr TLS fail, A\u00e9ma/Macif TalentSoft 0 hits",
+          "snippet": "MACIF (A\u00e9ma Groupe) CDI developer, Niort: P&C (IARD) IS transformation on Guidewire Cloud Platform (PolicyCenter/BillingCenter/ClaimCenter, Jutro), Java/JavaScript/React, REST APIs, microservices; 5+ yrs insurance package configuration. datePosted 2026-09-10, validThrough 2026-11-05. AGGREGATOR-ONLY.",
+          "foundAt": "2026-10-12T13:15:52Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-09",
+      "asOf": "2026-10-12",
       "postingCount": 12,
       "lastRun": {
-        "asOf": "2026-10-09",
+        "asOf": "2026-10-12",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -798,10 +850,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-09",
+      "asOf": "2026-10-12",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-09",
+        "asOf": "2026-10-12",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

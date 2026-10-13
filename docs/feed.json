@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-12",
+  "generatedAt": "2026-10-13",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-12",
-      "postingCount": 51,
+      "asOf": "2026-10-13",
+      "postingCount": 55,
       "lastRun": {
-        "asOf": "2026-10-12",
+        "asOf": "2026-10-13",
         "newCount": 4,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -676,16 +676,68 @@
           "snippet": "MACIF (A\u00e9ma Groupe) CDI developer, Niort: P&C (IARD) IS transformation on Guidewire Cloud Platform (PolicyCenter/BillingCenter/ClaimCenter, Jutro), Java/JavaScript/React, REST APIs, microservices; 5+ yrs insurance package configuration. datePosted 2026-09-10, validThrough 2026-11-05. AGGREGATOR-ONLY.",
           "foundAt": "2026-10-12T13:15:52Z",
           "verificationOk": true
+        },
+        {
+          "id": "175a3a5e9dfb783c",
+          "platform": "guidewire",
+          "title": "Senior Software Engineer, Guidewire BillingCenter",
+          "company": "The Travelers Companies, Inc.",
+          "verifiedEmployer": "020 Travelers Indemnity Co",
+          "country": "United States",
+          "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Software-Engineer--Guidewire-BillingCenter_R-53073",
+          "source": "Travelers Workday CXS search",
+          "snippet": "Guidewire BillingCenter engineer with strong integration development and configuration experience; end-to-end engineering within BillingCenter and related integrations as Travelers transforms its billing technology. Salary $139,400-$230,000.",
+          "foundAt": "2026-10-13T13:12:32Z",
+          "verificationOk": true
+        },
+        {
+          "id": "ec2f5289ced6cefc",
+          "platform": "guidewire",
+          "title": "Automation Engineer",
+          "company": "Zurich Insurance Group AG",
+          "verifiedEmployer": "Zurich Insurance Company Ltd.",
+          "country": "Canada",
+          "url": "https://www.careers.zurich.com/job/Toronto-Automation-Engineer-ON/1374361457/",
+          "source": "careers.zurich.com/search/?q=Guidewire (missed by run_watch.py; found via web search + manual Zurich search)",
+          "snippet": "Zurich Canada entry-level Automation Engineer: develop and maintain automated test scripts for Guidewire InsuranceSuite applications (preferably PolicyCenter), contribute to Guidewire development, automate end-to-end workflows. Pay CAD 62,500-86,100.",
+          "foundAt": "2026-10-13T13:12:32Z",
+          "verificationOk": true
+        },
+        {
+          "id": "291a7982f557d15b",
+          "platform": "guidewire",
+          "title": "Director, Systems & Data Transformation",
+          "company": "Munich Re",
+          "verifiedEmployer": "ERGO | Munich Re | MEAG (HSB Canada, part of Munich Re)",
+          "country": "Canada",
+          "url": "https://careers.munichre.com/en/job/toronto/director-systems-and-data-transformation/3342/45739604736",
+          "source": "careers.munichre.com (TalentBrew; not returned by keyword search, found via movojobs.ca lead + Toronto search)",
+          "snippet": "HSB Canada (Munich Re): strategic leadership for the Guidewire ecosystem; accountable for the Guidewire platform (architecture, configuration, integrations, releases) and major core-platform initiatives including ClaimCenter transformation.",
+          "foundAt": "2026-10-13T13:12:32Z",
+          "verificationOk": true
+        },
+        {
+          "id": "6730beb56b231fe4",
+          "platform": "guidewire",
+          "title": "Guidewire Developer",
+          "company": "Talanx AG",
+          "verifiedEmployer": "HDI Global Insurance Company",
+          "country": "United States",
+          "url": "https://remotive.com/remote/jobs/software-development/guidewire-developer-6162267",
+          "source": "Remotive (aggregator; JSON-LD logo points to HDI Global US UKG/UltiPro board EVE1012EVGC, which could not be reached; hdi.global 403; job.hdi.group has 0 Guidewire hits)",
+          "snippet": "HDI Global Insurance Company (Talanx industrial lines, Chicago) Guidewire PolicyCenter Developer: design/develop PolicyCenter solutions; requires hands-on PolicyCenter development, Gosu, Java/C#, Guidewire data model. $125,000-$135,000. AGGREGATOR-ONLY.",
+          "foundAt": "2026-10-13T13:12:32Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-12",
-      "postingCount": 12,
+      "asOf": "2026-10-13",
+      "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-12",
-        "newCount": 0,
+        "asOf": "2026-10-13",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -845,15 +897,28 @@
           "snippet": "of large scale commercial and specialty systems (DuckCreek, Guidewire, Unqork, UW Platforms, Submission &amp; Clearance Systems, Extraction or AI-driven platforms etc.) and demonstrated value creation and business outco",
           "foundAt": "2026-10-07T13:09:18Z",
           "verificationOk": true
+        },
+        {
+          "id": "20be0b5bed8f6bba",
+          "platform": "duckcreek",
+          "title": "IND Lead Software Engineer - Duck Creek Policy",
+          "company": "The Hartford Financial Services Group Inc.",
+          "verifiedEmployer": "Hartford Global Services Private Limited",
+          "country": "India",
+          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer---Duck-Creek-Policy_R2627157",
+          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
+          "snippet": "as we help shape the future. Job Description: Duck Creek Policy Configurator / Developer Location: Hyderabad, India Employment Type: Full-Time Experience: 4-8 Years Position Overview The Hartford is s",
+          "foundAt": "2026-10-13T13:19:03Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-12",
+        "asOf": "2026-10-13",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

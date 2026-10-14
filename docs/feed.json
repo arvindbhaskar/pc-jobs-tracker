@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-13",
+  "generatedAt": "2026-10-14",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-13",
-      "postingCount": 55,
+      "asOf": "2026-10-14",
+      "postingCount": 52,
       "lastRun": {
-        "asOf": "2026-10-13",
-        "newCount": 4,
+        "asOf": "2026-10-14",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -20,7 +20,7 @@
           "title": "Guidewire PolicyCenter Developer, Specialist",
           "company": "Nationwide Mutual Group",
           "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
+          "country": "India",
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Specialist_100029",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Configure/develop/integrate Guidewire PolicyCenter (also BillingCenter/ClaimCenter). Hyderabad. Req 100029.",
@@ -33,23 +33,10 @@
           "title": "Guidewire PolicyCenter Developer- Senior Engineer",
           "company": "Nationwide Mutual Group",
           "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
+          "country": "India",
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Senior-Engineer_100026",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Senior Guidewire Software Engineer focused on PolicyCenter configuration, integrations, InsuranceSuite. Hyderabad. Req 100026.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "719685c4400e7ee4",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter Technology Analyst, Specialist",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Technology-Analyst--Specialist_100050",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Technology Analyst with Guidewire PolicyCenter among integration/API tech stack. Hyderabad. Req 100050.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -59,7 +46,7 @@
           "title": "Guidewire PolicyCenter, Technology Analyst - India",
           "company": "Nationwide Mutual Group",
           "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
+          "country": "India",
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter--Technology-Analyst---India_100025",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Technology Analyst spanning Java Spring Boot, Guidewire PolicyCenter, Informatica. Hyderabad. Req 100025.",
@@ -72,23 +59,10 @@
           "title": "Sr Analyst, Quality Engineer - India",
           "company": "Nationwide Mutual Group",
           "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "United States",
+          "country": "India",
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Sr-Analyst--Quality-Engineer---India_099356",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Quality Engineer supporting ESS teams working on Guidewire InsuranceNow; foundational QA capability. Hyderabad. Req 099356.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "ca226dae6772fc23",
-          "platform": "guidewire",
-          "title": "Senior Cyber Insurance Architect",
-          "company": "The Travelers Companies, Inc.",
-          "verifiedEmployer": "020 Travelers Indemnity Co",
-          "country": "United States",
-          "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Cyber-Insurance-Architect_R-50757-1",
-          "source": "Travelers Workday",
-          "snippet": "Guide Cyber product integration/migration into the Guidewire-based Strategic Platform. Emp: 020 Travelers Indemnity Co.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -199,11 +173,11 @@
         {
           "id": "d44b7ef8278253fb",
           "platform": "guidewire",
-          "title": "Insurance Product Engineer",
+          "title": "Senior Insurance Business Analyst Guidewire Billing Center",
           "company": "Zurich Insurance Group AG",
           "verifiedEmployer": "Zurich Insurance Company Ltd.",
           "country": "Spain",
-          "url": "https://www.careers.zurich.com/job/Barcelona-Insurance-Product-Engineer/1328692857/",
+          "url": "https://www.careers.zurich.com/job/Barcelona-Senior-Insurance-Business-Analyst-Guidewire-Billing-Center/1328692857/",
           "source": "Zurich Careers",
           "snippet": "Insurance Product Engineer with Guidewire selected as the supporting technology suite. Barcelona, ES.",
           "foundAt": "2026-09-14T05:55:00Z",
@@ -587,19 +561,6 @@
           "verificationOk": true
         },
         {
-          "id": "51eda20d7e011471",
-          "platform": "guidewire",
-          "title": "Specialist Software Engineer - IBM ACE Integration Specialist",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "India",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Specialist-Software-Engineer---IBM-ACE-Integration-Specialist_100028",
-          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
-          "snippet": "Design, enhance, and support IBM ACE integrations that connect Guidewire PolicyCenter and other services through secure APIs, message routing, and payload transformation; support the CL ETL Batch pipeline that takes PolicyCenter transaction data through IDS/Oracle processing into downstream extracts and statistical records. Hyderabad (Nationwide GSC). Posted 2026-10-07.",
-          "foundAt": "2026-10-07T13:00:41Z",
-          "verificationOk": true
-        },
-        {
           "id": "c592cc78200b782c",
           "platform": "guidewire",
           "title": "Travel Digital & Automation - Global Product Owner",
@@ -639,24 +600,11 @@
           "verificationOk": true
         },
         {
-          "id": "0ad8a56211dabf12",
-          "platform": "guidewire",
-          "title": "Senior Test Automation Engineer (Insurance)",
-          "company": "Insurance Australia Group Ltd. (IAG)",
-          "verifiedEmployer": "IAG AUS",
-          "country": "Australia",
-          "url": "https://careers.iag.com.au/global/en/job/50882",
-          "source": "IAG Phenom careers.iag.com.au (search-results?keywords=Guidewire, phApp.ddo)",
-          "snippet": "Design, develop and maintain scalable automation frameworks for Guidewire applications; deliver end-to-end testing across PolicyCenter, integrations and APIs; requires experience testing Guidewire applications and integrations.",
-          "foundAt": "2026-10-12T13:15:52Z",
-          "verificationOk": true
-        },
-        {
           "id": "6f40d2831310299e",
           "platform": "guidewire",
           "title": "\u3010\u640d\u5bb3\u672c\u90e8/\u30a2\u30d7\u30eaSE\u3011Guidewire\u3092\u7528\u3044\u305f\u30a2\u30d7\u30ea\u958b\u767a/\u5728\u5b85\u53ef",
           "company": "Tokio Marine Holdings Inc.",
-          "verifiedEmployer": "\u6771\u4eac\u6d77\u4e0a\u65e5\u52d5\u30b7\u30b9\u30c6\u30e0\u30ba\u682a\u5f0f\u4f1a\u793e (Tokio Marine & Nichido Systems Co., Ltd.)",
+          "verifiedEmployer": "\u6771\u4eac\u6d77\u4e0a\u65e5\u52d5\u30b7\u30b9\u30c6\u30e0\u30ba\u682a\u5f0f\u4f1a\u793e",
           "country": "Japan",
           "url": "https://www.r-agent.com/viewjob/jk62a71d240903eb8b/",
           "source": "Recruit Agent (JP recruiting-agency aggregator); TMN Systems own career page has no public job list (axol login-only)",
@@ -708,7 +656,7 @@
           "platform": "guidewire",
           "title": "Director, Systems & Data Transformation",
           "company": "Munich Re",
-          "verifiedEmployer": "ERGO | Munich Re | MEAG (HSB Canada, part of Munich Re)",
+          "verifiedEmployer": "ERGO | Munich Re | MEAG",
           "country": "Canada",
           "url": "https://careers.munichre.com/en/job/toronto/director-systems-and-data-transformation/3342/45739604736",
           "source": "careers.munichre.com (TalentBrew; not returned by keyword search, found via movojobs.ca lead + Toronto search)",
@@ -728,15 +676,28 @@
           "snippet": "HDI Global Insurance Company (Talanx industrial lines, Chicago) Guidewire PolicyCenter Developer: design/develop PolicyCenter solutions; requires hands-on PolicyCenter development, Gosu, Java/C#, Guidewire data model. $125,000-$135,000. AGGREGATOR-ONLY.",
           "foundAt": "2026-10-13T13:12:32Z",
           "verificationOk": true
+        },
+        {
+          "id": "9872213d1cd9e01d",
+          "platform": "guidewire",
+          "title": "Senior Software Engineer (Guidewire)",
+          "company": "Berkshire Hathaway Inc. (National Indemnity)",
+          "verifiedEmployer": "NICO National Indemnity Company",
+          "country": "United States",
+          "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Senior-Software-Engineer--Guidewire-_R14809-3",
+          "source": "Workday nationalindemnity.wd5.myworkdayjobs.com/NICO",
+          "snippet": "NICO (Berkshire Hathaway group) Senior Software Engineer (Guidewire): configure/customize Guidewire, develop integrations via SOAP/REST/messaging; 2-4 yrs Guidewire configuration (PolicyCenter/BillingCenter/ClaimCenter preferred), Gosu, data model; Guidewire ACE or Associate certification required. Hybrid Omaha, no visa sponsorship.",
+          "foundAt": "2026-10-14T12:54:57Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-13",
-      "postingCount": 13,
+      "asOf": "2026-10-14",
+      "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-10-13",
+        "asOf": "2026-10-14",
         "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -910,15 +871,28 @@
           "snippet": "as we help shape the future. Job Description: Duck Creek Policy Configurator / Developer Location: Hyderabad, India Employment Type: Full-Time Experience: 4-8 Years Position Overview The Hartford is s",
           "foundAt": "2026-10-13T13:19:03Z",
           "verificationOk": true
+        },
+        {
+          "id": "b776c1f0cad99ee8",
+          "platform": "duckcreek",
+          "title": "IND Staff Business Analyst Duck Creek",
+          "company": "The Hartford Financial Services Group Inc.",
+          "verifiedEmployer": "Hartford Global Services Private Limited",
+          "country": "India",
+          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Business-Analyst-Duck-Creek_R2626661",
+          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
+          "snippet": "amp;C domain expertise , strong knowledge of the Duck Creek technology ecosystem , and the ability to translate complex business needs into scalable technology solutions . The individual will partner with product owne",
+          "foundAt": "2026-10-14T13:03:34Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-13",
+      "asOf": "2026-10-14",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-13",
+        "asOf": "2026-10-14",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14",
+  "generatedAt": "2026-10-15",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-14",
+      "asOf": "2026-10-15",
       "postingCount": 52,
       "lastRun": {
-        "asOf": "2026-10-14",
+        "asOf": "2026-10-15",
         "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -115,19 +115,6 @@
           "url": "https://jobs.farmersinsurance.com/job/Guidewire-Personal-Lines-Domain-Architect/1367683457/",
           "source": "Farmers Insurance Careers",
           "snippet": "Personal Lines Domain Architect for Guidewire InsuranceSuite / PolicyCenter platform architecture. itemprop hiringOrganization=Farmers Insurance Careers.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "e3377efaef3c8518",
-          "platform": "guidewire",
-          "title": "Director of Business Transformation",
-          "company": "Farmers Insurance Group of Companies",
-          "verifiedEmployer": "Farmers Insurance",
-          "country": "United States",
-          "url": "https://jobs.farmersinsurance.com/job/Director-of-Business-Transformation/1371598057/",
-          "source": "Farmers Insurance Careers",
-          "snippet": "Leads complex business transformation including the implementation of Guidewire. itemprop hiringOrganization=Farmers Insurance Careers.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -689,16 +676,29 @@
           "snippet": "NICO (Berkshire Hathaway group) Senior Software Engineer (Guidewire): configure/customize Guidewire, develop integrations via SOAP/REST/messaging; 2-4 yrs Guidewire configuration (PolicyCenter/BillingCenter/ClaimCenter preferred), Gosu, data model; Guidewire ACE or Associate certification required. Hybrid Omaha, no visa sponsorship.",
           "foundAt": "2026-10-14T12:54:57Z",
           "verificationOk": true
+        },
+        {
+          "id": "392bc5027b64daea",
+          "platform": "guidewire",
+          "title": "Senior Guidewire Developer",
+          "company": "Insurance Australia Group Ltd. (IAG)",
+          "verifiedEmployer": "IAG AUS",
+          "country": "Australia",
+          "url": "https://careers.iag.com.au/global/en/job/50769",
+          "source": "https://careers.iag.com.au/global/en/job/50769",
+          "snippet": "IAG Senior Guidewire Developer - PolicyCenter (permanent FT): design/develop/maintain Guidewire solutions; technical leadership within squads; architecture & engineering standards; mentor developers. Deep expertise in Guidewire PolicyCenter and Guidewire Cloud required. Based Sydney (Darling Park 2), Melbourne or Brisbane. Posted 2026-10-15; verified hiringOrganization IAG AUS via careers.iag.com.au JSON-LD.",
+          "foundAt": "2026-10-15T13:02:28Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-14",
-      "postingCount": 14,
+      "asOf": "2026-10-15",
+      "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-14",
-        "newCount": 1,
+        "asOf": "2026-10-15",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -713,19 +713,6 @@
           "url": "https://www.bhspecialty.com/career/duck-creek-software-engineer/",
           "source": "BHSI Careers",
           "snippet": "Design/develop/configure scalable Duck Creek-based solutions for BHSI SME digital platform. Boston, MA. Page states employer BHSI.",
-          "foundAt": "2026-09-14T06:20:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "8c2de538205d3657",
-          "platform": "duckcreek",
-          "title": "Technology Engineering Manager \u2013 Duck Creek",
-          "company": "Berkshire Hathaway Inc. (Berkshire Hathaway Specialty Insurance)",
-          "verifiedEmployer": "Berkshire Hathaway Specialty Insurance (BHSI)",
-          "country": "United States",
-          "url": "https://www.bhspecialty.com/career/technology-engineering-manager-duck-creek/",
-          "source": "BHSI Careers",
-          "snippet": "Engineering Manager delivering Duck Creek-based solutions (Policy/Billing/Claims, configuration/integration) for BHSI Technology underwriting. Boston, MA. Page states employer BHSI.",
           "foundAt": "2026-09-14T06:20:00Z",
           "verificationOk": true
         },
@@ -889,10 +876,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-14",
+      "asOf": "2026-10-15",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-14",
+        "asOf": "2026-10-15",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

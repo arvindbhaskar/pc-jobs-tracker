@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15",
+  "generatedAt": "2026-10-16",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-15",
+      "asOf": "2026-10-16",
       "postingCount": 52,
       "lastRun": {
-        "asOf": "2026-10-15",
-        "newCount": 1,
+        "asOf": "2026-10-16",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -694,11 +694,11 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-15",
-      "postingCount": 13,
+      "asOf": "2026-10-16",
+      "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-10-15",
-        "newCount": 0,
+        "asOf": "2026-10-16",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -871,15 +871,28 @@
           "snippet": "amp;C domain expertise , strong knowledge of the Duck Creek technology ecosystem , and the ability to translate complex business needs into scalable technology solutions . The individual will partner with product owne",
           "foundAt": "2026-10-14T13:03:34Z",
           "verificationOk": true
+        },
+        {
+          "id": "9c9e93c267961a7e",
+          "platform": "duckcreek",
+          "title": "Duck Creek Claims QA Engineer & Playwright",
+          "company": "Chubb Ltd.",
+          "verifiedEmployer": "Chubb",
+          "country": "India",
+          "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37194",
+          "source": "Chubb Oracle CX REST",
+          "snippet": "Duck Creek Claims QA Engineer & Playwright",
+          "foundAt": "2026-10-16T12:55:54Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-15",
+      "asOf": "2026-10-16",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-15",
+        "asOf": "2026-10-16",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

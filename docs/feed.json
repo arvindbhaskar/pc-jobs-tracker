@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16",
+  "generatedAt": "2026-10-19",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-16",
-      "postingCount": 52,
+      "asOf": "2026-10-19",
+      "postingCount": 50,
       "lastRun": {
-        "asOf": "2026-10-16",
+        "asOf": "2026-10-19",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -102,19 +102,6 @@
           "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Senior-AI-Engineer---Guidewire_R-7653",
           "source": "CNA Workday",
           "snippet": "Senior AI Engineer (Java title) with Guidewire platform experience a strong plus; slug Guidewire_R-7653. Emp: Continental Casualty Company.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "48edd4b48bd7db26",
-          "platform": "guidewire",
-          "title": "Guidewire Personal Lines Domain Architect",
-          "company": "Farmers Insurance Group of Companies",
-          "verifiedEmployer": "Farmers Insurance",
-          "country": "United States",
-          "url": "https://jobs.farmersinsurance.com/job/Guidewire-Personal-Lines-Domain-Architect/1367683457/",
-          "source": "Farmers Insurance Careers",
-          "snippet": "Personal Lines Domain Architect for Guidewire InsuranceSuite / PolicyCenter platform architecture. itemprop hiringOrganization=Farmers Insurance Careers.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -457,19 +444,6 @@
           "verificationOk": true
         },
         {
-          "id": "44f796bf8634882d",
-          "platform": "guidewire",
-          "title": "Product Operations Rating Manager",
-          "company": "Munich Re",
-          "verifiedEmployer": "ERGO | Munich Re | MEAG",
-          "country": "United States",
-          "url": "https://careers.munichre.com/en/job/amelia/product-operations-rating-manager/3342/45153217728",
-          "source": "careers.munichre.com /en/search-jobs (Guidewire)",
-          "snippet": "Provide leadership, operational oversight, technical support and expert knowledge of Earnix, Guidewire... Provide expert guidance on Earnix, Guidewire, data integration, and rating engine functionality. Amelia OH. Job ID 14356. Posted 2026-09-24.",
-          "foundAt": "2026-10-06T13:21:13Z",
-          "verificationOk": true
-        },
-        {
           "id": "9ce7cf9209d0df41",
           "platform": "guidewire",
           "title": "Project Manager",
@@ -694,11 +668,11 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-16",
-      "postingCount": 14,
+      "asOf": "2026-10-19",
+      "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-16",
-        "newCount": 1,
+        "asOf": "2026-10-19",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -808,19 +782,6 @@
           "verificationOk": true
         },
         {
-          "id": "7f08c689aabf86cb",
-          "platform": "duckcreek",
-          "title": "AVP, Business Solutions",
-          "company": "Arch Capital Group Ltd.",
-          "verifiedEmployer": "14400 Arch Insurance Group Inc.",
-          "country": "United States",
-          "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Home-Base-NY/AVP--Business-Solutions_R26_1098",
-          "source": "Workday archgroup.wd1.myworkdayjobs.com/careers",
-          "snippet": "le commercial and specialty Underwriting Systems (DuckCreek, Guidewire, Unqork, UW Platforms, etc.) and demonstrated value creation and business outcomes \u2022 Excellent written and oral communication skills, including the a",
-          "foundAt": "2026-10-07T13:09:14Z",
-          "verificationOk": true
-        },
-        {
           "id": "c7dd639ca322b9c3",
           "platform": "duckcreek",
           "title": "Senior Product Owner",
@@ -889,10 +850,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-16",
+      "asOf": "2026-10-19",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-16",
+        "asOf": "2026-10-19",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

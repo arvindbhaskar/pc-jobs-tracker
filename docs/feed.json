@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-19",
+  "generatedAt": "2026-10-20",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-19",
-      "postingCount": 50,
+      "asOf": "2026-10-20",
+      "postingCount": 48,
       "lastRun": {
-        "asOf": "2026-10-19",
+        "asOf": "2026-10-20",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -262,19 +262,6 @@
           "verificationOk": true
         },
         {
-          "id": "eb83fbb352e19bbb",
-          "platform": "guidewire",
-          "title": "Solutions Engineer/Technical Lead, Software (Guidewire Policy Center)",
-          "company": "Liberty Mutual Holding Co. Inc.",
-          "verifiedEmployer": "Liberty Mutual Insurance",
-          "country": "United States",
-          "url": "https://searchjobs.libertymutualgroup.com/careers/job/618516127729-solutions-engineer-technical-lead-software-guidewire-policy-center--indianapolis-indiana-united-states",
-          "source": "Liberty Mutual Phenom",
-          "snippet": "y landscape. Description Architect and implement integrations between Guidewire and external systems leveraging the Guidewire Integration Framework and APIs. Design and configure Guidewire modules tailored to client business requirements. C",
-          "foundAt": "2026-09-14T13:06:32Z",
-          "verificationOk": true
-        },
-        {
           "id": "987d0ece2c6098c7",
           "platform": "guidewire",
           "title": "\u3010IT\u3011\u640d\u5bb3\u30b5\u30fc\u30d3\u30b9\u9818\u57df\u62c5\u5f53 \u30d3\u30b8\u30cd\u30b9\u30a2\u30ca\u30ea\u30b9\u30c8",
@@ -427,19 +414,6 @@
           "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Hyacinthe-2450-Girouard-GE/Dveloppeur-euse--de-tests-automatiss---niveau-intermdiaire_R155513-1",
           "source": "Workday intactfc.wd3/intactfc (new tenant this run)",
           "snippet": "Contribute to the design and implementation of an automated testing framework based on Selenium, Java and TestNG, within the Guidewire BillingCenter environment. Asset: Gosu. St-Hyacinthe QC. Posted 2026-09-22.",
-          "foundAt": "2026-10-06T13:21:13Z",
-          "verificationOk": true
-        },
-        {
-          "id": "091ce9a34537716b",
-          "platform": "guidewire",
-          "title": "Product Operations Rating Analyst",
-          "company": "Munich Re",
-          "verifiedEmployer": "ERGO | Munich Re | MEAG",
-          "country": "United States",
-          "url": "https://careers.munichre.com/en/job/amelia/product-operations-rating-analyst/3342/45153217600",
-          "source": "careers.munichre.com /en/search-jobs (Guidewire)",
-          "snippet": "Provide technical support and expert knowledge of Earnix, Guidewire... Lead Guidewire/Earnix product and rating configuration by using a combination of Earnix, Policy Center, and Python code. Amelia OH. Job ID 14355. Posted 2026-09-24.",
           "foundAt": "2026-10-06T13:21:13Z",
           "verificationOk": true
         },
@@ -668,10 +642,10 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-19",
+      "asOf": "2026-10-20",
       "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-19",
+        "asOf": "2026-10-20",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -850,10 +824,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-19",
+      "asOf": "2026-10-20",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-19",
+        "asOf": "2026-10-20",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

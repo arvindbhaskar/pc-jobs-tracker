@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-21",
+  "generatedAt": "2026-10-22",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-21",
+      "asOf": "2026-10-22",
       "postingCount": 48,
       "lastRun": {
-        "asOf": "2026-10-21",
-        "newCount": 0,
+        "asOf": "2026-10-22",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -298,19 +298,6 @@
           "source": "GAIG Workday (Republic Indemnity / AFG subsidiary)",
           "snippet": "Senior BA with hands-on Guidewire PolicyCenter; Calabasas CA; RICA Republic Indemnity Company of America (AFG subsidiary).",
           "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "91fd192b530b038d",
-          "platform": "guidewire",
-          "title": "Software Engineer - Guidewire Policy Center",
-          "company": "Mapfre SA",
-          "verifiedEmployer": "MAPFRE",
-          "country": "United States",
-          "url": "https://jobs.mapfre.com/job/Webster-Software-Engineer-Guidewire-Policy-Center-MA-01570/1436829833/",
-          "source": "jobs.mapfre.com RSS+page",
-          "snippet": "Mapfre seeking Software Engineer for Guidewire PolicyCenter and Policy Lifecycle team; design/develop/configure/test PolicyCenter (Gosu, Java, rules, PCF); Webster MA. Posted Sep 14, 2026.",
-          "foundAt": "2026-09-15T13:01:36Z",
           "verificationOk": true
         },
         {
@@ -637,15 +624,28 @@
           "snippet": "IAG Senior Guidewire Developer - PolicyCenter (permanent FT): design/develop/maintain Guidewire solutions; technical leadership within squads; architecture & engineering standards; mentor developers. Deep expertise in Guidewire PolicyCenter and Guidewire Cloud required. Based Sydney (Darling Park 2), Melbourne or Brisbane. Posted 2026-10-15; verified hiringOrganization IAG AUS via careers.iag.com.au JSON-LD.",
           "foundAt": "2026-10-15T13:02:28Z",
           "verificationOk": true
+        },
+        {
+          "id": "4010bf079e071516",
+          "platform": "guidewire",
+          "title": "\u3010\u65b0\u5bbf\u3011\u793e\u5185SE\uff08IT\u6226\u7565\u30fb\u30b7\u30b9\u30c6\u30e0\u4f01\u753b\u62c5\u5f53\uff09\u25c6\u4e0a\u6d41\u30e1\u30a4\u30f3/\u6b8b\u696d\u670830H\u7a0b\u5ea6/\u5728\u5b85\u52e4\u52d9\u53ef",
+          "company": "Tokio Marine Holdings Inc.",
+          "verifiedEmployer": "\u6771\u4eac\u6d77\u4e0a\u30c0\u30a4\u30ec\u30af\u30c8\u640d\u5bb3\u4fdd\u967a\u682a\u5f0f\u4f1a\u793e (Tokio Marine & Nichido Direct Insurance; formerly E.design)",
+          "country": "Japan",
+          "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016222144/",
+          "source": "doda (JP job board) Guidewire keyword search; own site e-design.net/recruit lists only new-grad (Mynavi 2028) hiring, no public mid-career job list",
+          "snippet": "In-house IT SE (IT strategy / system planning) at Tokio Marine Direct: works with business units and partner firms on development and maintenance of the insurance administration system (Guidewire), Salesforce CRM and customer web systems; upstream PM/requirements role, programming done by partners. JSON-LD title '\u30b7\u30b9\u30c6\u30e0\u958b\u767a\u30fb\u904b\u7528\uff08\u30a2\u30d7\u30ea\u62c5\u5f53\uff09'. AGGREGATOR-ONLY.",
+          "foundAt": "2026-10-22T12:58:54Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-21",
+      "asOf": "2026-10-22",
       "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-21",
+        "asOf": "2026-10-22",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -824,10 +824,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-21",
+      "asOf": "2026-10-22",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-21",
+        "asOf": "2026-10-22",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-22",
+  "generatedAt": "2026-10-23",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-22",
-      "postingCount": 48,
+      "asOf": "2026-10-23",
+      "postingCount": 52,
       "lastRun": {
-        "asOf": "2026-10-22",
-        "newCount": 1,
+        "asOf": "2026-10-23",
+        "newCount": 4,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -637,16 +637,68 @@
           "snippet": "In-house IT SE (IT strategy / system planning) at Tokio Marine Direct: works with business units and partner firms on development and maintenance of the insurance administration system (Guidewire), Salesforce CRM and customer web systems; upstream PM/requirements role, programming done by partners. JSON-LD title '\u30b7\u30b9\u30c6\u30e0\u958b\u767a\u30fb\u904b\u7528\uff08\u30a2\u30d7\u30ea\u62c5\u5f53\uff09'. AGGREGATOR-ONLY.",
           "foundAt": "2026-10-22T12:58:54Z",
           "verificationOk": true
+        },
+        {
+          "id": "e0d9755ab173c7a5",
+          "platform": "guidewire",
+          "title": "Specialist, Digital Engineering",
+          "company": "Insurance Australia Group Ltd. (IAG)",
+          "verifiedEmployer": "IAG AUS",
+          "country": "Australia",
+          "url": "https://careers.iag.com.au/global/en/job/50619",
+          "source": "IAG careers (Phenom) search keywords=Guidewire; JSON-LD JobPosting",
+          "snippet": "Specialist, Digital Engineering (DevOps/CI-CD/platform engineering, Java/Spring) at IAG. 'What you'll bring' (required): 'Experience integrating enterprise platforms including Guidewire Policy & Billing Center, Tibco CMDM, and Salesforce Services.'",
+          "foundAt": "2026-10-23T12:58:06Z",
+          "verificationOk": true
+        },
+        {
+          "id": "295fdcc695774a48",
+          "platform": "guidewire",
+          "title": "IT Director, Claims",
+          "company": "Markel Group Inc.",
+          "verifiedEmployer": "Markel Service Inc.",
+          "country": "United States",
+          "url": "https://markelcorp.wd5.myworkdayjobs.com/en-US/GlobalCareers/job/Richmond-VA/IT-Director--Claims_R0024042",
+          "source": "Markel Workday CXS (markelcorp/GlobalCareers) keyword Guidewire",
+          "snippet": "Owns Markel's Claims technology strategy/delivery. 'Leads the Guidewire ClaimCenter platform' and 'Own the Guidewire ClaimCenter platform: configuration, integrations, upgrades and Guidewire Cloud migration'; coordinates with PolicyCenter/BillingCenter teams on InsuranceSuite upgrade alignment.",
+          "foundAt": "2026-10-23T13:09:52Z",
+          "verificationOk": true
+        },
+        {
+          "id": "d0167a445ee9db3e",
+          "platform": "guidewire",
+          "title": "Product Engineering (Guidewire BillingCenter Configuration & Integration)",
+          "company": "The Allstate Corp.",
+          "verifiedEmployer": "Allstate Insurance Company of Canada - Permanent",
+          "country": "Canada",
+          "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Canadian-Head-Office/Product-Engineering--Guidewire-BillingCenter-Configuration---Integration-_R32751",
+          "source": "Allstate Workday CXS (allstate/allstate_careers) keyword Guidewire/BillingCenter",
+          "snippet": "Allstate Canada Financials product engineering role: 'The Product Engineering takes care of the Guidewire BillingCenter by troubleshooting and resolving any degradation of service, application validations and involvement in Major and minor releases'. Guidewire BillingCenter in title.",
+          "foundAt": "2026-10-23T13:09:52Z",
+          "verificationOk": true
+        },
+        {
+          "id": "c4b4d896c09bb074",
+          "platform": "guidewire",
+          "title": "Software Engineer Senior Consultant II",
+          "company": "The Allstate Corp.",
+          "verifiedEmployer": "Allstate India Pvt Ltd",
+          "country": "India",
+          "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Ind--Pune-Sez-1-All-Floors-Except-9Th-And-10Th/Software-Engineer-Senior-Consultant-II_R35661",
+          "source": "Allstate Workday CXS (allstate/allstate_careers) keyword Guidewire/ClaimCenter",
+          "snippet": "'Primary work is development and production support of a GuideWire Claim Center and Contact Manager product. As such GW Claim Center skill is essential' - seeking an experienced Guidewire ClaimCenter Developer.",
+          "foundAt": "2026-10-23T13:09:52Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-22",
-      "postingCount": 13,
+      "asOf": "2026-10-23",
+      "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-10-22",
-        "newCount": 0,
+        "asOf": "2026-10-23",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -819,15 +871,28 @@
           "snippet": "Duck Creek Claims QA Engineer & Playwright",
           "foundAt": "2026-10-16T12:55:54Z",
           "verificationOk": true
+        },
+        {
+          "id": "6629d62aeb73a788",
+          "platform": "duckcreek",
+          "title": "Business Analyst, P&C Insurance (Remote)",
+          "company": "Fairfax Financial Holdings Ltd. (Crum & Forster)",
+          "verifiedEmployer": "Crum & Forster (United States Fire Insurance Company), part of Fairfax Financial Holdings",
+          "country": "United States",
+          "url": "https://careers-cfins.icims.com/jobs/5100/job",
+          "source": "Crum & Forster iCIMS careers (careers-cfins.icims.com) keyword 'Duck Creek'",
+          "snippet": "Job ID 2026-5100, Surplus & Specialty Lines Digital Services, Morristown NJ / Remote (NJ, NY, FL). Requirement: 'Experience working with Duck Creek Policy or similar platforms to support P&C insurance and digital transformation programs.' $71.6k-$105k.",
+          "foundAt": "2026-10-23T13:30:00Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-22",
+      "asOf": "2026-10-23",
       "postingCount": 0,
       "lastRun": {
-        "asOf": "2026-10-22",
+        "asOf": "2026-10-23",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

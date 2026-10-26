@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-23",
+  "generatedAt": "2026-10-26",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-23",
-      "postingCount": 52,
+      "asOf": "2026-10-26",
+      "postingCount": 53,
       "lastRun": {
-        "asOf": "2026-10-23",
-        "newCount": 4,
+        "asOf": "2026-10-26",
+        "newCount": 2,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -613,19 +613,6 @@
           "verificationOk": true
         },
         {
-          "id": "392bc5027b64daea",
-          "platform": "guidewire",
-          "title": "Senior Guidewire Developer",
-          "company": "Insurance Australia Group Ltd. (IAG)",
-          "verifiedEmployer": "IAG AUS",
-          "country": "Australia",
-          "url": "https://careers.iag.com.au/global/en/job/50769",
-          "source": "https://careers.iag.com.au/global/en/job/50769",
-          "snippet": "IAG Senior Guidewire Developer - PolicyCenter (permanent FT): design/develop/maintain Guidewire solutions; technical leadership within squads; architecture & engineering standards; mentor developers. Deep expertise in Guidewire PolicyCenter and Guidewire Cloud required. Based Sydney (Darling Park 2), Melbourne or Brisbane. Posted 2026-10-15; verified hiringOrganization IAG AUS via careers.iag.com.au JSON-LD.",
-          "foundAt": "2026-10-15T13:02:28Z",
-          "verificationOk": true
-        },
-        {
           "id": "4010bf079e071516",
           "platform": "guidewire",
           "title": "\u3010\u65b0\u5bbf\u3011\u793e\u5185SE\uff08IT\u6226\u7565\u30fb\u30b7\u30b9\u30c6\u30e0\u4f01\u753b\u62c5\u5f53\uff09\u25c6\u4e0a\u6d41\u30e1\u30a4\u30f3/\u6b8b\u696d\u670830H\u7a0b\u5ea6/\u5728\u5b85\u52e4\u52d9\u53ef",
@@ -689,16 +676,42 @@
           "snippet": "'Primary work is development and production support of a GuideWire Claim Center and Contact Manager product. As such GW Claim Center skill is essential' - seeking an experienced Guidewire ClaimCenter Developer.",
           "foundAt": "2026-10-23T13:09:52Z",
           "verificationOk": true
+        },
+        {
+          "id": "34de9e7884f47a1e",
+          "platform": "guidewire",
+          "title": "Specialist, Software Engineer \u2013 IBM ACE & ETL",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---IBM-ACE---ETL_100874",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
+          "snippet": "Commercial Lines integration engineer (IBM ACE, MQ, Informatica ETL, Apigee): 'Your work will help move policy transaction data securely and reliably between PolicyCenter, internal applications, downstream platforms, vendors, and regulatory consumers.'",
+          "foundAt": "2026-10-26T14:35:16Z",
+          "verificationOk": true
+        },
+        {
+          "id": "760997171589e965",
+          "platform": "guidewire",
+          "title": "Specialist, Software Engineer Guidewire Insurancenow- India",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "India",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Specialist--Software-Engineer-Guidewire-Insurancenow--India_101054",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
+          "snippet": "Guidewire Software Engineer focused on Guidewire InsuranceNow: 'advancing and supporting Guidewire InsuranceNow solutions across critical policy management capabilities'; configure/develop/integrate Guidewire components (product model, rules, workflows, integrations, APIs).",
+          "foundAt": "2026-10-26T14:35:40Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-23",
-      "postingCount": 14,
+      "asOf": "2026-10-26",
+      "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-23",
-        "newCount": 1,
+        "asOf": "2026-10-26",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -847,19 +860,6 @@
           "verificationOk": true
         },
         {
-          "id": "b776c1f0cad99ee8",
-          "platform": "duckcreek",
-          "title": "IND Staff Business Analyst Duck Creek",
-          "company": "The Hartford Financial Services Group Inc.",
-          "verifiedEmployer": "Hartford Global Services Private Limited",
-          "country": "India",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Business-Analyst-Duck-Creek_R2626661",
-          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
-          "snippet": "amp;C domain expertise , strong knowledge of the Duck Creek technology ecosystem , and the ability to translate complex business needs into scalable technology solutions . The individual will partner with product owne",
-          "foundAt": "2026-10-14T13:03:34Z",
-          "verificationOk": true
-        },
-        {
           "id": "9c9e93c267961a7e",
           "platform": "duckcreek",
           "title": "Duck Creek Claims QA Engineer & Playwright",
@@ -889,15 +889,29 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-23",
-      "postingCount": 0,
+      "asOf": "2026-10-26",
+      "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-10-23",
-        "newCount": 0,
+        "asOf": "2026-10-26",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
-      "postings": []
+      "postings": [
+        {
+          "id": "211b7749f98197a7",
+          "platform": "majesco",
+          "title": "Senior Software Engineer(QA-BA-Insurance-Majesco billing)",
+          "company": "Chubb Ltd.",
+          "verifiedEmployer": "Chubb",
+          "country": "India",
+          "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37742",
+          "source": "Chubb Oracle CX REST",
+          "snippet": "Senior Software Engineer(QA-BA-Insurance-Majesco billing)",
+          "foundAt": "2026-10-26T14:33:54Z",
+          "verificationOk": true
+        }
+      ]
     }
   }
 }

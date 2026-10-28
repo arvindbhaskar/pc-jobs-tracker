@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-27",
+  "generatedAt": "2026-10-28",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-27",
-      "postingCount": 53,
+      "asOf": "2026-10-28",
+      "postingCount": 54,
       "lastRun": {
-        "asOf": "2026-10-27",
-        "newCount": 0,
+        "asOf": "2026-10-28",
+        "newCount": 2,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -665,19 +665,6 @@
           "verificationOk": true
         },
         {
-          "id": "c4b4d896c09bb074",
-          "platform": "guidewire",
-          "title": "Software Engineer Senior Consultant II",
-          "company": "The Allstate Corp.",
-          "verifiedEmployer": "Allstate India Pvt Ltd",
-          "country": "India",
-          "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Ind--Pune-Sez-1-All-Floors-Except-9Th-And-10Th/Software-Engineer-Senior-Consultant-II_R35661",
-          "source": "Allstate Workday CXS (allstate/allstate_careers) keyword Guidewire/ClaimCenter",
-          "snippet": "'Primary work is development and production support of a GuideWire Claim Center and Contact Manager product. As such GW Claim Center skill is essential' - seeking an experienced Guidewire ClaimCenter Developer.",
-          "foundAt": "2026-10-23T13:09:52Z",
-          "verificationOk": true
-        },
-        {
           "id": "34de9e7884f47a1e",
           "platform": "guidewire",
           "title": "Specialist, Software Engineer \u2013 IBM ACE & ETL",
@@ -702,15 +689,41 @@
           "snippet": "Guidewire Software Engineer focused on Guidewire InsuranceNow: 'advancing and supporting Guidewire InsuranceNow solutions across critical policy management capabilities'; configure/develop/integrate Guidewire components (product model, rules, workflows, integrations, APIs).",
           "foundAt": "2026-10-26T14:35:40Z",
           "verificationOk": true
+        },
+        {
+          "id": "2690924853373e59",
+          "platform": "guidewire",
+          "title": "Business Analyst Intern - Summer 2027",
+          "company": "American Financial Group Inc.",
+          "verifiedEmployer": "GAIC Great American Insurance Company",
+          "country": "United States",
+          "url": "https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Business-Analyst-Intern---Summer-2027_R9807-1",
+          "source": "Workday gaig.wd1.myworkdayjobs.com/GAIG_External",
+          "snippet": "Summer 2027 IT Business Analyst intern on Great American's ClaimCenter team: 'Assist with creating and refining user stories for ClaimCenter enhancements', test ClaimCenter functionality, and help design/mock up proposed ClaimCenter screens and workflows.",
+          "foundAt": "2026-10-28T12:54:46Z",
+          "verificationOk": true
+        },
+        {
+          "id": "5823fc74ee067af0",
+          "platform": "guidewire",
+          "title": "Guidewire Application Architect (10+ Years with 5+ Years in J2EE + in implementing enterprise software solutions + Guidewire Digital & Cloud & Integration)",
+          "company": "Assurant Inc.",
+          "verifiedEmployer": "Assurant Warranty Solutions (India) Private Limited",
+          "country": "India",
+          "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/India-Virtual/Guidewire-Application-Architect--10--Years-with-5--Years-in-J2EE---in-implementing-enterprise-software-solutions---Guidewire-Digital---Cloud---Integration-_R-115691-1",
+          "source": "Workday assurant.wd1.myworkdayjobs.com/Assurant_Careers",
+          "snippet": "Guidewire Application Architect at Assurant GCC-India: 'Lead the design and implementation of Guidewire solutions, including PolicyCenter, BillingCenter, and ClaimCenter. Develop integration strategies and architectures for Guidewire applications.' Preferred: Guidewire Digital, Integration Gateway, Guidewire SaaS migration.",
+          "foundAt": "2026-10-28T12:59:39Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-27",
+      "asOf": "2026-10-28",
       "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-10-27",
+        "asOf": "2026-10-28",
         "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -886,26 +899,26 @@
           "verificationOk": true
         },
         {
-          "id": "7edb0ba0fffec32b",
+          "id": "9c0c97a164640eeb",
           "platform": "duckcreek",
-          "title": "IND Senior Software Engineer - Duck Creek Policy",
+          "title": "IND Lead Associate/Engineer Duck Creek",
           "company": "The Hartford Financial Services Group Inc.",
           "verifiedEmployer": "Hartford Global Services Private Limited",
           "country": "India",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Software-Engineer---Duck-Creek-Policy_R2627155",
+          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Associate-Engineer-Duck-Creek_R2626662-1",
           "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
-          "snippet": "as we help shape the future. Job Description: Duck Creek Policy Configurator / Developer Location: Hyderabad, India Employment Type: Full-Time Experience: 2-4 Years Position Overview The Hartford is se",
-          "foundAt": "2026-10-27T13:10:06Z",
+          "snippet": "future. Role Summary We are seeking a skilled Duck Creek Policy Developer with 4&#43; years of experience in designing, developing, and supporting Duck Creek Policy Administration solutions. The ideal candidate shou",
+          "foundAt": "2026-10-28T13:04:00Z",
           "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-27",
+      "asOf": "2026-10-28",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-10-27",
+        "asOf": "2026-10-28",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

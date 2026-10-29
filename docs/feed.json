@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-28",
+  "generatedAt": "2026-10-29",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-28",
-      "postingCount": 54,
+      "asOf": "2026-10-29",
+      "postingCount": 52,
       "lastRun": {
-        "asOf": "2026-10-28",
-        "newCount": 2,
+        "asOf": "2026-10-29",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -184,19 +184,6 @@
           "verificationOk": true
         },
         {
-          "id": "e5918ad5f1729828",
-          "platform": "guidewire",
-          "title": "Senior Software Developer (Guidewire Certified)",
-          "company": "Berkshire Hathaway Inc. (National Indemnity)",
-          "verifiedEmployer": "NICO National Indemnity Company",
-          "country": "United States",
-          "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Senior-Software-Developer--Guidewire-Certified-_R11431",
-          "source": "National Indemnity Workday",
-          "snippet": "Lead developer requiring Guidewire Ace (PolicyCenter/BillingCenter preferred); InsuranceSuite / GW Cloud. Omaha. Emp: NICO.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
           "id": "5a5724625816167e",
           "platform": "guidewire",
           "title": "Product Owner - Property (Guidewire)",
@@ -285,19 +272,6 @@
           "source": "Zurich careers",
           "snippet": "\u30b9\u30af\u306b\u3064\u3044\u3066\u81ea\u767a\u7684\u306b\u767a\u898b\u3057\u3001\u80fd\u52d5\u7684\u306b\u5468\u308a\u3092\u5dfb\u304d\u8fbc\u3093\u3067\u5bfe\u51e6\u3059\u308b\u3053\u3068\u3092Lead\u3067\u304d\u308b\u30b9\u30ad\u30eb \u30fbGuidewire Claim Center\u306e\u958b\u767a\u5b9f\u52d9\u7d4c\u9a13\u307e\u305f\u306f\u7ba1\u7406\u7d4c\u9a13\uff12\u5e74\u4ee5\u4e0a \u30fb\u30d9\u30f3\u30c0\u30fc\u3092\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3057\u306a\u304c\u3089\u672c\u756a\u307e\u3067\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u958b\u767a\u696d\u52d9\u7d4c\u9a13\uff12\u5e74\u4ee5\u4e0a \u30fb4\u5e74\u5236\u5927\u5352\u4ee5\u4e0a \u30fb\u65e5\u672c\u8a9e\u3067\u306e\u30d3\u30b8\u30cd\u30b9\u4f1a\u8a71\u3001\u304a\u3088\u3073\u8aad\u307f\u66f8\u304d <span s",
           "foundAt": "2026-09-14T13:06:37Z",
-          "verificationOk": true
-        },
-        {
-          "id": "2a612c9efdb2bbde",
-          "platform": "guidewire",
-          "title": "Senior Business Analyst - Guidewire",
-          "company": "American Financial Group Inc.",
-          "verifiedEmployer": "RICA Republic Indemnity Company of America",
-          "country": "United States",
-          "url": "https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Calabasas-CA-USA/Senior-Business-Analyst---Guidewire_R9017-1",
-          "source": "GAIG Workday (Republic Indemnity / AFG subsidiary)",
-          "snippet": "Senior BA with hands-on Guidewire PolicyCenter; Calabasas CA; RICA Republic Indemnity Company of America (AFG subsidiary).",
-          "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
         {
@@ -626,19 +600,6 @@
           "verificationOk": true
         },
         {
-          "id": "e0d9755ab173c7a5",
-          "platform": "guidewire",
-          "title": "Specialist, Digital Engineering",
-          "company": "Insurance Australia Group Ltd. (IAG)",
-          "verifiedEmployer": "IAG AUS",
-          "country": "Australia",
-          "url": "https://careers.iag.com.au/global/en/job/50619",
-          "source": "IAG careers (Phenom) search keywords=Guidewire; JSON-LD JobPosting",
-          "snippet": "Specialist, Digital Engineering (DevOps/CI-CD/platform engineering, Java/Spring) at IAG. 'What you'll bring' (required): 'Experience integrating enterprise platforms including Guidewire Policy & Billing Center, Tibco CMDM, and Salesforce Services.'",
-          "foundAt": "2026-10-23T12:58:06Z",
-          "verificationOk": true
-        },
-        {
           "id": "295fdcc695774a48",
           "platform": "guidewire",
           "title": "IT Director, Claims",
@@ -715,16 +676,29 @@
           "snippet": "Guidewire Application Architect at Assurant GCC-India: 'Lead the design and implementation of Guidewire solutions, including PolicyCenter, BillingCenter, and ClaimCenter. Develop integration strategies and architectures for Guidewire applications.' Preferred: Guidewire Digital, Integration Gateway, Guidewire SaaS migration.",
           "foundAt": "2026-10-28T12:59:39Z",
           "verificationOk": true
+        },
+        {
+          "id": "4c20ec1e2dfe6a85",
+          "platform": "guidewire",
+          "title": "Consultant, Data Analyst",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Iowa---Des-Moines-1100-Locust-Street/Consultant--Data-Analyst_101100",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
+          "snippet": "Nationwide 'Consultant, Data Analyst' (Data Designer): 'gather and analyze business/data requirements for GW ClaimCenter and PolicyCenter. Implement Guidewire ClaimCenter and PolicyCenter for Commercial LOBs. Perform source to target data mapping for various PolicyCenter third party integrations.'",
+          "foundAt": "2026-10-29T12:56:49Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-28",
-      "postingCount": 14,
+      "asOf": "2026-10-29",
+      "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-28",
-        "newCount": 1,
+        "asOf": "2026-10-29",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -897,28 +871,15 @@
           "snippet": "Job ID 2026-5100, Surplus & Specialty Lines Digital Services, Morristown NJ / Remote (NJ, NY, FL). Requirement: 'Experience working with Duck Creek Policy or similar platforms to support P&C insurance and digital transformation programs.' $71.6k-$105k.",
           "foundAt": "2026-10-23T13:30:00Z",
           "verificationOk": true
-        },
-        {
-          "id": "9c0c97a164640eeb",
-          "platform": "duckcreek",
-          "title": "IND Lead Associate/Engineer Duck Creek",
-          "company": "The Hartford Financial Services Group Inc.",
-          "verifiedEmployer": "Hartford Global Services Private Limited",
-          "country": "India",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Associate-Engineer-Duck-Creek_R2626662-1",
-          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
-          "snippet": "future. Role Summary We are seeking a skilled Duck Creek Policy Developer with 4&#43; years of experience in designing, developing, and supporting Duck Creek Policy Administration solutions. The ideal candidate shou",
-          "foundAt": "2026-10-28T13:04:00Z",
-          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-10-28",
+        "asOf": "2026-10-29",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

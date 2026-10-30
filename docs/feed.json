@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-29",
+  "generatedAt": "2026-10-30",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-29",
-      "postingCount": 52,
+      "asOf": "2026-10-30",
+      "postingCount": 49,
       "lastRun": {
-        "asOf": "2026-10-29",
-        "newCount": 1,
+        "asOf": "2026-10-30",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -184,19 +184,6 @@
           "verificationOk": true
         },
         {
-          "id": "5a5724625816167e",
-          "platform": "guidewire",
-          "title": "Product Owner - Property (Guidewire)",
-          "company": "Berkshire Hathaway Inc. (National Indemnity)",
-          "verifiedEmployer": "NICO National Indemnity Company",
-          "country": "United States",
-          "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Product-Owner---Property--Guidewire-_R14757",
-          "source": "National Indemnity Workday",
-          "snippet": "Product Owner for Property / Guidewire initiatives. Omaha. Emp: NICO National Indemnity Company. Req R14757.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
           "id": "e7a359f1b76d6ad3",
           "platform": "guidewire",
           "title": "IT Senior Software Engineer (Guidewire/Java)",
@@ -272,19 +259,6 @@
           "source": "Zurich careers",
           "snippet": "\u30b9\u30af\u306b\u3064\u3044\u3066\u81ea\u767a\u7684\u306b\u767a\u898b\u3057\u3001\u80fd\u52d5\u7684\u306b\u5468\u308a\u3092\u5dfb\u304d\u8fbc\u3093\u3067\u5bfe\u51e6\u3059\u308b\u3053\u3068\u3092Lead\u3067\u304d\u308b\u30b9\u30ad\u30eb \u30fbGuidewire Claim Center\u306e\u958b\u767a\u5b9f\u52d9\u7d4c\u9a13\u307e\u305f\u306f\u7ba1\u7406\u7d4c\u9a13\uff12\u5e74\u4ee5\u4e0a \u30fb\u30d9\u30f3\u30c0\u30fc\u3092\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3057\u306a\u304c\u3089\u672c\u756a\u307e\u3067\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u958b\u767a\u696d\u52d9\u7d4c\u9a13\uff12\u5e74\u4ee5\u4e0a \u30fb4\u5e74\u5236\u5927\u5352\u4ee5\u4e0a \u30fb\u65e5\u672c\u8a9e\u3067\u306e\u30d3\u30b8\u30cd\u30b9\u4f1a\u8a71\u3001\u304a\u3088\u3073\u8aad\u307f\u66f8\u304d <span s",
           "foundAt": "2026-09-14T13:06:37Z",
-          "verificationOk": true
-        },
-        {
-          "id": "ace653a1deab6c1d",
-          "platform": "guidewire",
-          "title": "Senior Technical Engineering Leader - Guidewire PolicyCenter & Policy Lifecycle",
-          "company": "Mapfre SA",
-          "verifiedEmployer": "MAPFRE",
-          "country": "United States",
-          "url": "https://jobs.mapfre.com/job/Webster-Senior-Technical-Engineering-Leader-Guidewire-PolicyCenter-&-Policy-Lifecycle-MA-01570/1436847033/",
-          "source": "jobs.mapfre.com RSS+page",
-          "snippet": "Senior Technical Engineering Leader for Guidewire PolicyCenter & Policy Lifecycle; technical leadership for PolicyCenter engineering. Webster MA. Employer MAPFRE.",
-          "foundAt": "2026-09-15T13:01:37Z",
           "verificationOk": true
         },
         {
@@ -535,19 +509,6 @@
           "verificationOk": true
         },
         {
-          "id": "ec2f5289ced6cefc",
-          "platform": "guidewire",
-          "title": "Automation Engineer",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "Canada",
-          "url": "https://www.careers.zurich.com/job/Toronto-Automation-Engineer-ON/1374361457/",
-          "source": "careers.zurich.com/search/?q=Guidewire (missed by run_watch.py; found via web search + manual Zurich search)",
-          "snippet": "Zurich Canada entry-level Automation Engineer: develop and maintain automated test scripts for Guidewire InsuranceSuite applications (preferably PolicyCenter), contribute to Guidewire development, automate end-to-end workflows. Pay CAD 62,500-86,100.",
-          "foundAt": "2026-10-13T13:12:32Z",
-          "verificationOk": true
-        },
-        {
           "id": "291a7982f557d15b",
           "platform": "guidewire",
           "title": "Director, Systems & Data Transformation",
@@ -694,11 +655,11 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-29",
-        "newCount": 0,
+        "asOf": "2026-10-30",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -834,19 +795,6 @@
           "verificationOk": true
         },
         {
-          "id": "20be0b5bed8f6bba",
-          "platform": "duckcreek",
-          "title": "IND Lead Software Engineer - Duck Creek Policy",
-          "company": "The Hartford Financial Services Group Inc.",
-          "verifiedEmployer": "Hartford Global Services Private Limited",
-          "country": "India",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer---Duck-Creek-Policy_R2627157",
-          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
-          "snippet": "as we help shape the future. Job Description: Duck Creek Policy Configurator / Developer Location: Hyderabad, India Employment Type: Full-Time Experience: 4-8 Years Position Overview The Hartford is s",
-          "foundAt": "2026-10-13T13:19:03Z",
-          "verificationOk": true
-        },
-        {
           "id": "9c9e93c267961a7e",
           "platform": "duckcreek",
           "title": "Duck Creek Claims QA Engineer & Playwright",
@@ -871,15 +819,28 @@
           "snippet": "Job ID 2026-5100, Surplus & Specialty Lines Digital Services, Morristown NJ / Remote (NJ, NY, FL). Requirement: 'Experience working with Duck Creek Policy or similar platforms to support P&C insurance and digital transformation programs.' $71.6k-$105k.",
           "foundAt": "2026-10-23T13:30:00Z",
           "verificationOk": true
+        },
+        {
+          "id": "6e4c79c035e7d250",
+          "platform": "duckcreek",
+          "title": "Senior Staff Techno functional Business Analyst Duck Creek",
+          "company": "The Hartford Financial Services Group Inc.",
+          "verifiedEmployer": "Hartford Global Services Private Limited",
+          "country": "India",
+          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/Senior-Staff-Techno-functional-Business-Analyst-Duck-Creek_R2626428",
+          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
+          "snippet": "IND Senior Staff Business Analyst Duck Creek - GCC136 We\u2019re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportu",
+          "foundAt": "2026-10-30T13:16:15Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-10-29",
+        "asOf": "2026-10-30",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

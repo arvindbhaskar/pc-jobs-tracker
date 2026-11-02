@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-30",
+  "generatedAt": "2026-11-02",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-10-30",
-      "postingCount": 49,
+      "asOf": "2026-11-02",
+      "postingCount": 47,
       "lastRun": {
-        "asOf": "2026-10-30",
+        "asOf": "2026-11-02",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -128,19 +128,6 @@
           "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Guidewire-Lead/1352026657/",
           "source": "Zurich Careers",
           "snippet": "Guidewire Lead at Zurich Capability Center, Mexico City (Toreo); InsuranceSuite configuration/development leadership.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "b5cabade09104710",
-          "platform": "guidewire",
-          "title": "Senior Integration Developer",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "Mexico",
-          "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Senior-Integration-Developer/1361620157/",
-          "source": "Zurich Careers",
-          "snippet": "Senior Integrations Developer / Guidewire Developer (PolicyCenter / Integration) at Zurich Capability Center, Mexico City.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -336,19 +323,6 @@
           "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Jersey-City-NJ-United-States-of-America/VP--Guidewire-Applications_R26_1024",
           "source": "Workday archgroup.wd1/careers",
           "snippet": "The VP, Guidewire Applications provides strategic leadership for Guidewire application standards, governance, delivery maturity... establishes the Guidewire Center of Excellence. Jersey City NJ. Posted 2026-09-28.",
-          "foundAt": "2026-10-06T13:21:13Z",
-          "verificationOk": true
-        },
-        {
-          "id": "5b5424ea04b1c8a5",
-          "platform": "guidewire",
-          "title": "Intermediate Automated Test Developer",
-          "company": "Intact Financial Corp.",
-          "verifiedEmployer": "Intact Financial Corporation",
-          "country": "Canada",
-          "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Hyacinthe-2450-Girouard-GE/Dveloppeur-euse--de-tests-automatiss---niveau-intermdiaire_R155513-1",
-          "source": "Workday intactfc.wd3/intactfc (new tenant this run)",
-          "snippet": "Contribute to the design and implementation of an automated testing framework based on Selenium, Java and TestNG, within the Guidewire BillingCenter environment. Asset: Gosu. St-Hyacinthe QC. Posted 2026-09-22.",
           "foundAt": "2026-10-06T13:21:13Z",
           "verificationOk": true
         },
@@ -655,11 +629,11 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-10-30",
+      "asOf": "2026-11-02",
       "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-10-30",
-        "newCount": 1,
+        "asOf": "2026-11-02",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -837,10 +811,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-10-30",
+      "asOf": "2026-11-02",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-10-30",
+        "asOf": "2026-11-02",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

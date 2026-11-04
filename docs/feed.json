@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03",
+  "generatedAt": "2026-11-04",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-03",
-      "postingCount": 49,
+      "asOf": "2026-11-04",
+      "postingCount": 48,
       "lastRun": {
-        "asOf": "2026-11-03",
-        "newCount": 2,
+        "asOf": "2026-11-04",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -637,29 +637,16 @@
           "snippet": "Nationwide 'Consultant, Software Engineer': 'Automate the manual upload of Guidewire Policy Center Users... Support and configure Guidewire Policy Center applications and resolve system incident tickets.'",
           "foundAt": "2026-11-03T13:52:00Z",
           "verificationOk": true
-        },
-        {
-          "id": "fc81f72d71af7645",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter Developer- Senior Analyst",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "India",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Senior-Analyst_101206",
-          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
-          "snippet": "Nationwide India GSC 'Guidewire PolicyCenter Developer - Senior Analyst': 'What we're looking for: Strong Guidewire PolicyCenter knowledge, Expertise with Java, Git, web-based security, log analysis and troubleshooting.'",
-          "foundAt": "2026-11-03T13:52:23Z",
-          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-03",
+      "asOf": "2026-11-04",
       "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-11-03",
-        "newCount": 1,
+        "asOf": "2026-11-04",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -850,10 +837,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-03",
+      "asOf": "2026-11-04",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-11-03",
+        "asOf": "2026-11-04",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

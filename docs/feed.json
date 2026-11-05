@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-04",
+  "generatedAt": "2026-11-05",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-04",
-      "postingCount": 48,
+      "asOf": "2026-11-05",
+      "postingCount": 51,
       "lastRun": {
-        "asOf": "2026-11-04",
-        "newCount": 0,
+        "asOf": "2026-11-05",
+        "newCount": 3,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -637,15 +637,54 @@
           "snippet": "Nationwide 'Consultant, Software Engineer': 'Automate the manual upload of Guidewire Policy Center Users... Support and configure Guidewire Policy Center applications and resolve system incident tickets.'",
           "foundAt": "2026-11-03T13:52:00Z",
           "verificationOk": true
+        },
+        {
+          "id": "39b377baea0bf0f6",
+          "platform": "guidewire",
+          "title": "Senior Technical Engineering Leader - Guidewire PolicyCenter & Policy Lifecycle",
+          "company": "Mapfre SA",
+          "verifiedEmployer": "MAPFRE",
+          "country": "United States",
+          "url": "https://jobs.mapfre.com/job/Webster-Senior-Technical-Engineering-Leader-Guidewire-PolicyCenter-&-Policy-Lifecycle-MA-01570/1454464633/",
+          "source": "MAPFRE careers (jobs.mapfre.com, SuccessFactors) + Guidewire RSS feed",
+          "snippet": "Technical leader for MAPFRE's Guidewire PolicyCenter platform and Policy Lifecycle ecosystem; requires PolicyCenter development/config/integrations, Java and Gosu; GWCP preferred. Webster MA, posted Nov 4, 2026, $120k-$170k. Repost of earlier filled req 1436847033.",
+          "foundAt": "2026-11-05T14:05:56Z",
+          "verificationOk": true
+        },
+        {
+          "id": "bff7c09de7240022",
+          "platform": "guidewire",
+          "title": "Sr. Engineer, Software Engineer (Test Automation Developer)",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_101017",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
+          "snippet": "Test automation developer translating requirements into user-facing capabilities across ClaimCenter, Comms Hub, document/content management and related claims workflows. Columbus OH, posted Nov 5, 2026.",
+          "foundAt": "2026-11-05T13:56:26Z",
+          "verificationOk": true
+        },
+        {
+          "id": "8cb443337fd810e8",
+          "platform": "guidewire",
+          "title": "Technology Business Analyst",
+          "company": "Insurance Australia Group Ltd. (IAG)",
+          "verifiedEmployer": "IAG AUS",
+          "country": "Australia",
+          "url": "https://careers.iag.com.au/global/en/job/50429",
+          "source": "https://careers.iag.com.au/global/en/job/50429",
+          "snippet": "Technology BA in IAG's Intermediated Experience Platforms team (broker technology transformation), working across Guidewire Jutro, MuleSoft and Appian. Australia; Phenom postedDate Nov 4, 2026.",
+          "foundAt": "2026-11-05T14:07:27Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-04",
+      "asOf": "2026-11-05",
       "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-11-04",
+        "asOf": "2026-11-05",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -837,10 +876,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-04",
+      "asOf": "2026-11-05",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-11-04",
+        "asOf": "2026-11-05",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

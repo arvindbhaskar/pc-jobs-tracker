@@ -1,45 +1,19 @@
 {
-  "generatedAt": "2026-11-06",
+  "generatedAt": "2026-11-09",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-06",
-      "postingCount": 51,
+      "asOf": "2026-11-09",
+      "postingCount": 43,
       "lastRun": {
-        "asOf": "2026-11-06",
+        "asOf": "2026-11-09",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
-        {
-          "id": "53f4e242ee8872e5",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter Developer, Specialist",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "India",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Specialist_100029",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Configure/develop/integrate Guidewire PolicyCenter (also BillingCenter/ClaimCenter). Hyderabad. Req 100029.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "273890f71f0f711a",
-          "platform": "guidewire",
-          "title": "Guidewire PolicyCenter Developer- Senior Engineer",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "India",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter-Developer--Senior-Engineer_100026",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Senior Guidewire Software Engineer focused on PolicyCenter configuration, integrations, InsuranceSuite. Hyderabad. Req 100026.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
         {
           "id": "804d1aff7c1c629b",
           "platform": "guidewire",
@@ -50,19 +24,6 @@
           "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Guidewire-PolicyCenter--Technology-Analyst---India_100025",
           "source": "Nationwide Workday (India GSC)",
           "snippet": "Technology Analyst spanning Java Spring Boot, Guidewire PolicyCenter, Informatica. Hyderabad. Req 100025.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "7f5dc6ec63711065",
-          "platform": "guidewire",
-          "title": "Sr Analyst, Quality Engineer - India",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
-          "country": "India",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Sr-Analyst--Quality-Engineer---India_099356",
-          "source": "Nationwide Workday (India GSC)",
-          "snippet": "Quality Engineer supporting ESS teams working on Guidewire InsuranceNow; foundational QA capability. Hyderabad. Req 099356.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -431,19 +392,6 @@
           "verificationOk": true
         },
         {
-          "id": "aabd4492c8e44036",
-          "platform": "guidewire",
-          "title": "Principal Solution Architect - Guidewire",
-          "company": "Insurance Australia Group Ltd. (IAG)",
-          "verifiedEmployer": "IAG AUS",
-          "country": "Australia",
-          "url": "https://careers.iag.com.au/global/en/job/50678",
-          "source": "IAG Phenom careers.iag.com.au (search-results?keywords=Guidewire, phApp.ddo)",
-          "snippet": "Principal Solution Architect to lead solution architecture across IAG's core Guidewire platforms (PolicyCenter and BillingCenter) for Retail Technology: large-scale transformation, cloud adoption, integration; seeks senior Guidewire architect (Guidewire Certified ACE).",
-          "foundAt": "2026-10-12T13:15:52Z",
-          "verificationOk": true
-        },
-        {
           "id": "6f40d2831310299e",
           "platform": "guidewire",
           "title": "\u3010\u640d\u5bb3\u672c\u90e8/\u30a2\u30d7\u30eaSE\u3011Guidewire\u3092\u7528\u3044\u305f\u30a2\u30d7\u30ea\u958b\u767a/\u5728\u5b85\u53ef",
@@ -492,19 +440,6 @@
           "url": "https://careers.munichre.com/en/job/toronto/director-systems-and-data-transformation/3342/45739604736",
           "source": "careers.munichre.com (TalentBrew; not returned by keyword search, found via movojobs.ca lead + Toronto search)",
           "snippet": "HSB Canada (Munich Re): strategic leadership for the Guidewire ecosystem; accountable for the Guidewire platform (architecture, configuration, integrations, releases) and major core-platform initiatives including ClaimCenter transformation.",
-          "foundAt": "2026-10-13T13:12:32Z",
-          "verificationOk": true
-        },
-        {
-          "id": "6730beb56b231fe4",
-          "platform": "guidewire",
-          "title": "Guidewire Developer",
-          "company": "Talanx AG",
-          "verifiedEmployer": "HDI Global Insurance Company",
-          "country": "United States",
-          "url": "https://remotive.com/remote/jobs/software-development/guidewire-developer-6162267",
-          "source": "Remotive (aggregator; JSON-LD logo points to HDI Global US UKG/UltiPro board EVE1012EVGC, which could not be reached; hdi.global 403; job.hdi.group has 0 Guidewire hits)",
-          "snippet": "HDI Global Insurance Company (Talanx industrial lines, Chicago) Guidewire PolicyCenter Developer: design/develop PolicyCenter solutions; requires hands-on PolicyCenter development, Gosu, Java/C#, Guidewire data model. $125,000-$135,000. AGGREGATOR-ONLY.",
           "foundAt": "2026-10-13T13:12:32Z",
           "verificationOk": true
         },
@@ -558,19 +493,6 @@
           "source": "Allstate Workday CXS (allstate/allstate_careers) keyword Guidewire/BillingCenter",
           "snippet": "Allstate Canada Financials product engineering role: 'The Product Engineering takes care of the Guidewire BillingCenter by troubleshooting and resolving any degradation of service, application validations and involvement in Major and minor releases'. Guidewire BillingCenter in title.",
           "foundAt": "2026-10-23T13:09:52Z",
-          "verificationOk": true
-        },
-        {
-          "id": "34de9e7884f47a1e",
-          "platform": "guidewire",
-          "title": "Specialist, Software Engineer \u2013 IBM ACE & ETL",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---IBM-ACE---ETL_100874",
-          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
-          "snippet": "Commercial Lines integration engineer (IBM ACE, MQ, Informatica ETL, Apigee): 'Your work will help move policy transaction data securely and reliably between PolicyCenter, internal applications, downstream platforms, vendors, and regulatory consumers.'",
-          "foundAt": "2026-10-26T14:35:16Z",
           "verificationOk": true
         },
         {
@@ -650,41 +572,15 @@
           "snippet": "Technical leader for MAPFRE's Guidewire PolicyCenter platform and Policy Lifecycle ecosystem; requires PolicyCenter development/config/integrations, Java and Gosu; GWCP preferred. Webster MA, posted Nov 4, 2026, $120k-$170k. Repost of earlier filled req 1436847033.",
           "foundAt": "2026-11-05T14:05:56Z",
           "verificationOk": true
-        },
-        {
-          "id": "bff7c09de7240022",
-          "platform": "guidewire",
-          "title": "Sr. Engineer, Software Engineer (Test Automation Developer)",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_101017",
-          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
-          "snippet": "Test automation developer translating requirements into user-facing capabilities across ClaimCenter, Comms Hub, document/content management and related claims workflows. Columbus OH, posted Nov 5, 2026.",
-          "foundAt": "2026-11-05T13:56:26Z",
-          "verificationOk": true
-        },
-        {
-          "id": "8cb443337fd810e8",
-          "platform": "guidewire",
-          "title": "Technology Business Analyst",
-          "company": "Insurance Australia Group Ltd. (IAG)",
-          "verifiedEmployer": "IAG AUS",
-          "country": "Australia",
-          "url": "https://careers.iag.com.au/global/en/job/50429",
-          "source": "https://careers.iag.com.au/global/en/job/50429",
-          "snippet": "Technology BA in IAG's Intermediated Experience Platforms team (broker technology transformation), working across Guidewire Jutro, MuleSoft and Appian. Australia; Phenom postedDate Nov 4, 2026.",
-          "foundAt": "2026-11-05T14:07:27Z",
-          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-06",
+      "asOf": "2026-11-09",
       "postingCount": 14,
       "lastRun": {
-        "asOf": "2026-11-06",
+        "asOf": "2026-11-09",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

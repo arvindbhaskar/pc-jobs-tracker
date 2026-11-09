@@ -772,12 +772,12 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-06",
+      "asOf": "2026-11-09",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-11-06",
+        "asOf": "2026-11-09",
         "newCount": 0,
-        "insurersChecked": 50,
+        "insurersChecked": 49,
         "insurersAttempted": 50
       },
       "postings": [

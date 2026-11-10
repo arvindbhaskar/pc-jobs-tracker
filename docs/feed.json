@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-09",
+  "generatedAt": "2026-11-10",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-09",
-      "postingCount": 43,
+      "asOf": "2026-11-10",
+      "postingCount": 44,
       "lastRun": {
-        "asOf": "2026-11-09",
-        "newCount": 0,
+        "asOf": "2026-11-10",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -572,15 +572,28 @@
           "snippet": "Technical leader for MAPFRE's Guidewire PolicyCenter platform and Policy Lifecycle ecosystem; requires PolicyCenter development/config/integrations, Java and Gosu; GWCP preferred. Webster MA, posted Nov 4, 2026, $120k-$170k. Repost of earlier filled req 1436847033.",
           "foundAt": "2026-11-05T14:05:56Z",
           "verificationOk": true
+        },
+        {
+          "id": "202e2f4a16f1261e",
+          "platform": "guidewire",
+          "title": "Associate Business Analyst/Business Analyst - Public Sector",
+          "company": "American Financial Group Inc.",
+          "verifiedEmployer": "GAIC Great American Insurance Company",
+          "country": "United States",
+          "url": "https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Remote-USA/Associate-Business-Analyst-Business-Analyst---Public-Sector_R9880",
+          "source": "Workday gaig.wd1.myworkdayjobs.com/GAIG_External",
+          "snippet": "flows. This role also serves as a key liaison for ClaimCenter enhancements, testing, and communications while contributing to automation and artificial intelligence initiatives. This is an excellent opportunity for a cur",
+          "foundAt": "2026-11-10T14:03:05Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-09",
-      "postingCount": 14,
+      "asOf": "2026-11-10",
+      "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-11-09",
+        "asOf": "2026-11-10",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -743,19 +756,6 @@
           "verificationOk": true
         },
         {
-          "id": "6e4c79c035e7d250",
-          "platform": "duckcreek",
-          "title": "Senior Staff Techno functional Business Analyst Duck Creek",
-          "company": "The Hartford Financial Services Group Inc.",
-          "verifiedEmployer": "Hartford Global Services Private Limited",
-          "country": "India",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/Senior-Staff-Techno-functional-Business-Analyst-Duck-Creek_R2626428",
-          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
-          "snippet": "IND Senior Staff Business Analyst Duck Creek - GCC136 We\u2019re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportu",
-          "foundAt": "2026-10-30T13:16:15Z",
-          "verificationOk": true
-        },
-        {
           "id": "29719fc53919162f",
           "platform": "duckcreek",
           "title": "Sr. Software Engineer- Duck Creek Policy",
@@ -772,12 +772,12 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-09",
+      "asOf": "2026-11-10",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-11-09",
+        "asOf": "2026-11-10",
         "newCount": 0,
-        "insurersChecked": 49,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [

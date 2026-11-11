@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-10",
+  "generatedAt": "2026-11-11",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-10",
-      "postingCount": 44,
+      "asOf": "2026-11-11",
+      "postingCount": 43,
       "lastRun": {
-        "asOf": "2026-11-10",
-        "newCount": 1,
+        "asOf": "2026-11-11",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -284,19 +284,6 @@
           "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Jersey-City-NJ-United-States-of-America/VP--Guidewire-Applications_R26_1024",
           "source": "Workday archgroup.wd1/careers",
           "snippet": "The VP, Guidewire Applications provides strategic leadership for Guidewire application standards, governance, delivery maturity... establishes the Guidewire Center of Excellence. Jersey City NJ. Posted 2026-09-28.",
-          "foundAt": "2026-10-06T13:21:13Z",
-          "verificationOk": true
-        },
-        {
-          "id": "9ce7cf9209d0df41",
-          "platform": "guidewire",
-          "title": "Project Manager",
-          "company": "Munich Re",
-          "verifiedEmployer": "ERGO | Munich Re | MEAG",
-          "country": "United Kingdom",
-          "url": "https://careers.munichre.com/en/job/london/project-manager/3342/44351243456",
-          "source": "careers.munichre.com /en/search-jobs (Guidewire)",
-          "snippet": "Required: Experience of project managing business focused transformational changes within the insurance industry, including the implementation of Guidewire solutions. London. Job ID 14202. Posted 2026-09-09.",
           "foundAt": "2026-10-06T13:21:13Z",
           "verificationOk": true
         },
@@ -590,10 +577,10 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-10",
+      "asOf": "2026-11-11",
       "postingCount": 13,
       "lastRun": {
-        "asOf": "2026-11-10",
+        "asOf": "2026-11-11",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
@@ -772,10 +759,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-10",
+      "asOf": "2026-11-11",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-11-10",
+        "asOf": "2026-11-11",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

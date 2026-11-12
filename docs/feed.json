@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-11",
+  "generatedAt": "2026-11-12",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-11",
-      "postingCount": 43,
+      "asOf": "2026-11-12",
+      "postingCount": 40,
       "lastRun": {
-        "asOf": "2026-11-11",
+        "asOf": "2026-11-12",
         "newCount": 0,
-        "insurersChecked": 50,
+        "insurersChecked": 49,
         "insurersAttempted": 50
       },
       "postings": [
@@ -245,19 +245,6 @@
           "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/Guidewire-Developer_R2627166",
           "source": "Workday thehartford.wd5/Careers_External",
           "snippet": "Guidewire PolicyCenter Developer (3-12 Years Experience). Design, develop, and support Guidewire PolicyCenter solutions for P&C Insurance, delivering configurations, integrations, and enhancements. Posted 2026-09-24.",
-          "foundAt": "2026-10-06T13:21:13Z",
-          "verificationOk": true
-        },
-        {
-          "id": "15bbc1aafd0ecb25",
-          "platform": "guidewire",
-          "title": "Senior Staff Guidewire Software Engineer - Hybrid",
-          "company": "The Hartford Financial Services Group Inc.",
-          "verifiedEmployer": "Hartford Fire Ins. Co",
-          "country": "United States",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Charlotte-NC/Senior-Staff-Software-Engineer---Hybrid_R2627051",
-          "source": "Workday thehartford.wd5/Careers_External",
-          "snippet": "The Hartford is hiring a Senior Staff Guidewire Software Engineer to design, build, and modernize Claims IT solutions... Design, develop, and enhance Guidewire ClaimCenter workflows, rules, and integrations. Charlotte NC. Posted 2026-09-18.",
           "foundAt": "2026-10-06T13:21:13Z",
           "verificationOk": true
         },
@@ -509,32 +496,6 @@
           "verificationOk": true
         },
         {
-          "id": "5823fc74ee067af0",
-          "platform": "guidewire",
-          "title": "Guidewire Application Architect (10+ Years with 5+ Years in J2EE + in implementing enterprise software solutions + Guidewire Digital & Cloud & Integration)",
-          "company": "Assurant Inc.",
-          "verifiedEmployer": "Assurant Warranty Solutions (India) Private Limited",
-          "country": "India",
-          "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/India-Virtual/Guidewire-Application-Architect--10--Years-with-5--Years-in-J2EE---in-implementing-enterprise-software-solutions---Guidewire-Digital---Cloud---Integration-_R-115691-1",
-          "source": "Workday assurant.wd1.myworkdayjobs.com/Assurant_Careers",
-          "snippet": "Guidewire Application Architect at Assurant GCC-India: 'Lead the design and implementation of Guidewire solutions, including PolicyCenter, BillingCenter, and ClaimCenter. Develop integration strategies and architectures for Guidewire applications.' Preferred: Guidewire Digital, Integration Gateway, Guidewire SaaS migration.",
-          "foundAt": "2026-10-28T12:59:39Z",
-          "verificationOk": true
-        },
-        {
-          "id": "4c20ec1e2dfe6a85",
-          "platform": "guidewire",
-          "title": "Consultant, Data Analyst",
-          "company": "Nationwide Mutual Group",
-          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
-          "country": "United States",
-          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Iowa---Des-Moines-1100-Locust-Street/Consultant--Data-Analyst_101100",
-          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
-          "snippet": "Nationwide 'Consultant, Data Analyst' (Data Designer): 'gather and analyze business/data requirements for GW ClaimCenter and PolicyCenter. Implement Guidewire ClaimCenter and PolicyCenter for Commercial LOBs. Perform source to target data mapping for various PolicyCenter third party integrations.'",
-          "foundAt": "2026-10-29T12:56:49Z",
-          "verificationOk": true
-        },
-        {
           "id": "be2fdd728840954b",
           "platform": "guidewire",
           "title": "Consultant, Software Engineer",
@@ -577,28 +538,15 @@
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-11",
-      "postingCount": 13,
+      "asOf": "2026-11-12",
+      "postingCount": 11,
       "lastRun": {
-        "asOf": "2026-11-11",
+        "asOf": "2026-11-12",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
-        {
-          "id": "b0648a3df483c6ac",
-          "platform": "duckcreek",
-          "title": "Duck Creek Software Engineer",
-          "company": "Berkshire Hathaway Inc. (Berkshire Hathaway Specialty Insurance)",
-          "verifiedEmployer": "Berkshire Hathaway Specialty Insurance (BHSI)",
-          "country": "United States",
-          "url": "https://www.bhspecialty.com/career/duck-creek-software-engineer/",
-          "source": "BHSI Careers",
-          "snippet": "Design/develop/configure scalable Duck Creek-based solutions for BHSI SME digital platform. Boston, MA. Page states employer BHSI.",
-          "foundAt": "2026-09-14T06:20:00Z",
-          "verificationOk": true
-        },
         {
           "id": "558294d94a1a0261",
           "platform": "duckcreek",
@@ -635,19 +583,6 @@
           "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/35298",
           "source": "Chubb Oracle CX (careers.chubb.com)",
           "snippet": "Sr.Software Engineer-QA Duck Creek Claims. Official Chubb External careers OG title; description About Chubb / Chubb India. Job 35298. Hyderabad/Bangalore.",
-          "foundAt": "2026-09-14T06:20:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "b35e7f245c870f47",
-          "platform": "duckcreek",
-          "title": "Staff Software Engineer - Duck Creek",
-          "company": "The Hartford Financial Services Group Inc.",
-          "verifiedEmployer": "Hartford Fire Ins. Co",
-          "country": "United States",
-          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Frisco-TX/Staff-Software-Engineer---Duck-Creek_R2624891",
-          "source": "Hartford Workday",
-          "snippet": "Staff Software Engineer - Duck Creek in Personal Lines; low-code platforms (Duck Creek). Frisco, TX / remote. Emp: Hartford Fire Ins. Co. Req R2624891.",
           "foundAt": "2026-09-14T06:20:00Z",
           "verificationOk": true
         },
@@ -759,10 +694,10 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-12",
       "postingCount": 1,
       "lastRun": {
-        "asOf": "2026-11-11",
+        "asOf": "2026-11-12",
         "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50

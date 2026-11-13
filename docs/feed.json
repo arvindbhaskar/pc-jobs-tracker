@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-12",
+  "generatedAt": "2026-11-13",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-12",
-      "postingCount": 40,
+      "asOf": "2026-11-13",
+      "postingCount": 41,
       "lastRun": {
-        "asOf": "2026-11-12",
-        "newCount": 0,
-        "insurersChecked": 49,
+        "asOf": "2026-11-13",
+        "newCount": 1,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
@@ -533,16 +533,29 @@
           "snippet": "flows. This role also serves as a key liaison for ClaimCenter enhancements, testing, and communications while contributing to automation and artificial intelligence initiatives. This is an excellent opportunity for a cur",
           "foundAt": "2026-11-10T14:03:05Z",
           "verificationOk": true
+        },
+        {
+          "id": "b8941dedcb07a7a2",
+          "platform": "guidewire",
+          "title": "Director, Software Engineering - P&C Claims",
+          "company": "United Services Automobile Association (USAA)",
+          "verifiedEmployer": "2002 United Services Automobile Asn",
+          "country": "United States",
+          "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Director--Software-Engineering---P-C-Claims_R0122203",
+          "source": "Workday usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
+          "snippet": "e, modern applications using technologies such as Guidewire, Artificial Intelligence (AI), Java, React, cloud-native platforms, and other emerging technologies to enhance the claims experience and operational efficiency.",
+          "foundAt": "2026-11-13T14:08:59Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-12",
-      "postingCount": 11,
+      "asOf": "2026-11-13",
+      "postingCount": 12,
       "lastRun": {
-        "asOf": "2026-11-12",
-        "newCount": 0,
+        "asOf": "2026-11-13",
+        "newCount": 1,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -689,17 +702,30 @@
           "snippet": "Sr. Software Engineer- Duck Creek Policy",
           "foundAt": "2026-11-03T13:59:57Z",
           "verificationOk": true
+        },
+        {
+          "id": "cb15714995414e5b",
+          "platform": "duckcreek",
+          "title": "Staff Reliability Engineer",
+          "company": "The Hartford Financial Services Group Inc.",
+          "verifiedEmployer": "Hartford Global Services Private Limited",
+          "country": "India",
+          "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/India-GCC-Puppalaguda-Village/Staff-Reliability-Engineer_R2627808",
+          "source": "Workday thehartford.wd5.myworkdayjobs.com/Careers_External",
+          "snippet": "Hands-on experience designing and configuring Duck Creek Policy and/or Billing modules Has a strong technical understanding of complex traditional and modern architectures and systems Fundamentally treats Produ",
+          "foundAt": "2026-11-13T14:10:53Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-12",
-      "postingCount": 1,
+      "asOf": "2026-11-13",
+      "postingCount": 2,
       "lastRun": {
-        "asOf": "2026-11-12",
-        "newCount": 0,
-        "insurersChecked": 50,
+        "asOf": "2026-11-13",
+        "newCount": 1,
+        "insurersChecked": 49,
         "insurersAttempted": 50
       },
       "postings": [
@@ -714,6 +740,19 @@
           "source": "Chubb Oracle CX REST",
           "snippet": "Senior Software Engineer(QA-BA-Insurance-Majesco billing)",
           "foundAt": "2026-10-26T14:33:54Z",
+          "verificationOk": true
+        },
+        {
+          "id": "26c269ccacc79370",
+          "platform": "majesco",
+          "title": "Technical Product Owner, Direct Billing Systems",
+          "company": "Chubb Ltd.",
+          "verifiedEmployer": "Chubb External",
+          "country": "United States",
+          "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37372",
+          "source": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37372",
+          "snippet": "consolidation of billing platforms into Majesco Billing. You will bring your knowledge of agency, direct bill, and directable billing to help evolve a platform that supports seamless, efficient billin",
+          "foundAt": "2026-11-13T14:17:16Z",
           "verificationOk": true
         }
       ]

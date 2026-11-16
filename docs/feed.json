@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13",
+  "generatedAt": "2026-11-16",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-13",
-      "postingCount": 41,
+      "asOf": "2026-11-16",
+      "postingCount": 43,
       "lastRun": {
-        "asOf": "2026-11-13",
-        "newCount": 1,
+        "asOf": "2026-11-16",
+        "newCount": 4,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -80,19 +80,6 @@
           "verificationOk": true
         },
         {
-          "id": "eea3395cf7e5f217",
-          "platform": "guidewire",
-          "title": "Guidewire Lead",
-          "company": "Zurich Insurance Group AG",
-          "verifiedEmployer": "Zurich Insurance Company Ltd.",
-          "country": "Mexico",
-          "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Guidewire-Lead/1352026657/",
-          "source": "Zurich Careers",
-          "snippet": "Guidewire Lead at Zurich Capability Center, Mexico City (Toreo); InsuranceSuite configuration/development leadership.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
           "id": "d44b7ef8278253fb",
           "platform": "guidewire",
           "title": "Senior Insurance Business Analyst Guidewire Billing Center",
@@ -141,19 +128,6 @@
           "url": "https://jobs.erieinsurance.com/job/Erie-IT-Senior-Software-Engineer-%28GuidewireJava%29-PA-16530/1286527200/",
           "source": "Erie Insurance Careers",
           "snippet": "Claims Tech / ClaimCenter (ECC) technical lead; Gosu, Guidewire Cloud preferred. Erie, PA. itemprop hiringOrganization=Erie Insurance.",
-          "foundAt": "2026-09-14T05:55:00Z",
-          "verificationOk": true
-        },
-        {
-          "id": "0897604f318e98e6",
-          "platform": "guidewire",
-          "title": "Senior Technical Engineering Leader - Guidewire Billing Center (Hybrid - Boston or Webster)",
-          "company": "Mapfre SA",
-          "verifiedEmployer": "MAPFRE",
-          "country": "United States",
-          "url": "https://jobs.mapfre.com/job/Webster-Senior-Technical-Engineering-Leader-Guidewire-Billing-Center-%28Hybrid-Boston-or-Webster%29-MA-01570/1407484833/",
-          "source": "MAPFRE Careers",
-          "snippet": "Technical engineering leader for Guidewire BillingCenter (hybrid Boston/Webster, MA). itemprop hiringOrganization=MAPFRE.",
           "foundAt": "2026-09-14T05:55:00Z",
           "verificationOk": true
         },
@@ -546,16 +520,68 @@
           "snippet": "e, modern applications using technologies such as Guidewire, Artificial Intelligence (AI), Java, React, cloud-native platforms, and other emerging technologies to enhance the claims experience and operational efficiency.",
           "foundAt": "2026-11-13T14:08:59Z",
           "verificationOk": true
+        },
+        {
+          "id": "9057d2e418b9634c",
+          "platform": "guidewire",
+          "title": "Specialist Software Engineer Guidewire",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "India",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Specialist-Software-Engineer-Guidewire_101086",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
+          "snippet": "rdinary care. - This role supports Scrum Sharks Guidewire Team, supporting PET Insurance across Nationwide Financials. This position will focus primarily on providing high quality, efficient technology solutions to bus",
+          "foundAt": "2026-11-16T13:50:17Z",
+          "verificationOk": true
+        },
+        {
+          "id": "33461fca26e0cec1",
+          "platform": "guidewire",
+          "title": "Specialist Technology Analyst - Guidewire",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "India",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Specialist-Technology-Analyst---Guidewire_101231",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
+          "snippet": "cations, etc.) This role supports Scrum Sharks Guidewire Team, supporting PET Insurance across Nationwide Financials. This position will focus primarily on providing high quality, efficient technology solutions to bus",
+          "foundAt": "2026-11-16T13:50:18Z",
+          "verificationOk": true
+        },
+        {
+          "id": "4c934d4b141f9f0e",
+          "platform": "guidewire",
+          "title": "Consultant, Software Engineer Guidewire",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "IN1 Nationwide Global Services Center Private Limited",
+          "country": "India",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career_India/job/Telangana---Hyderabad-Building-No-14-Mindspace-Madhapur-HITEC-City/Consultant--Software-Engineer-Guidewire_101085-1",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India",
+          "snippet": "n applications This role supports Scrum Sharks Guidewire Team, supporting PET Insurance across Nationwide Financials. This position will focus primarily on providing high quality, efficient technology solutions to bus",
+          "foundAt": "2026-11-16T13:50:19Z",
+          "verificationOk": true
+        },
+        {
+          "id": "6feb6d0ab16325c0",
+          "platform": "guidewire",
+          "title": "Product Development Director - P&C Cross Lines Mod",
+          "company": "United Services Automobile Association (USAA)",
+          "verifiedEmployer": "2002 United Services Automobile Asn",
+          "country": "United States",
+          "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Development-Director---P-C-Cross-Lines-Mod_R0122495",
+          "source": "Workday usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
+          "snippet": "e migration of our legacy book of business to the Guidewire PolicyCenter platform, managing complex state roll-outs, new policy writing, and system conversions. You will provide critical leadership throughout the product",
+          "foundAt": "2026-11-16T13:55:50Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-13",
+      "asOf": "2026-11-16",
       "postingCount": 12,
       "lastRun": {
-        "asOf": "2026-11-13",
-        "newCount": 1,
+        "asOf": "2026-11-16",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -720,12 +746,12 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-13",
+      "asOf": "2026-11-16",
       "postingCount": 2,
       "lastRun": {
-        "asOf": "2026-11-13",
-        "newCount": 1,
-        "insurersChecked": 49,
+        "asOf": "2026-11-16",
+        "newCount": 0,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [

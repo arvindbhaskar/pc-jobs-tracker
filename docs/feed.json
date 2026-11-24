@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-23",
+  "generatedAt": "2026-11-24",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-23",
-      "postingCount": 39,
+      "asOf": "2026-11-24",
+      "postingCount": 40,
       "lastRun": {
-        "asOf": "2026-11-23",
+        "asOf": "2026-11-24",
         "newCount": 2,
-        "insurersChecked": 50,
+        "insurersChecked": 49,
         "insurersAttempted": 50
       },
       "postings": [
@@ -314,19 +314,6 @@
           "verificationOk": true
         },
         {
-          "id": "5438d9177e5999f2",
-          "platform": "guidewire",
-          "title": "Senior Software Developer (Guidewire/Java/Angular) Bilingual (FR/EN)",
-          "company": "Intact Financial Corp.",
-          "verifiedEmployer": "Intact Financial Corporation",
-          "country": "Canada",
-          "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Hyacinthe-Quebec-CAN/Senior-Software-Developer--Guidewire-Java-Angular--Bilingual--FR-EN-_R155840",
-          "source": "Workday intactfc.wd3.myworkdayjobs.com/intactfc",
-          "snippet": "Intact is deploying a billing and collection system across all Intact companies and provinces and is looking for a Guidewire Developer to support the migration of the Guidewire BillingCenter platform to Guidewire's Cloud SaaS version (T Billing Development team).",
-          "foundAt": "2026-10-09T13:14:38Z",
-          "verificationOk": true
-        },
-        {
           "id": "6f40d2831310299e",
           "platform": "guidewire",
           "title": "\u3010\u640d\u5bb3\u672c\u90e8/\u30a2\u30d7\u30eaSE\u3011Guidewire\u3092\u7528\u3044\u305f\u30a2\u30d7\u30ea\u958b\u767a/\u5728\u5b85\u53ef",
@@ -520,16 +507,42 @@
           "snippet": "nsibilities: The intern will work closely with Guidewire BillingCenter Application managers, developers, and analysts at Great American Insurance Group. You will participate in simple to moderately complex tasks rela",
           "foundAt": "2026-11-23T14:00:53Z",
           "verificationOk": true
+        },
+        {
+          "id": "26fd2f9dbbe7eacf",
+          "platform": "guidewire",
+          "title": "Product Engineering (Guidewire ClaimCenter Configuration & Integration)",
+          "company": "The Allstate Corp.",
+          "verifiedEmployer": "Allstate Insurance Company of Canada - Permanent",
+          "country": "Canada",
+          "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Canadian-Head-Office-It/Product-Engineering--Guidewire-ClaimCenter-Configuration---Integration-_R37036",
+          "source": "Workday allstate.wd5.myworkdayjobs.com/allstate_careers",
+          "snippet": "Job description: The Product Engineering (Guidewire ClaimCenter Configuration &amp; Integration) architects and designs their digital products using modern tools, technologies, frameworks, and systems. They appl",
+          "foundAt": "2026-11-24T14:01:15Z",
+          "verificationOk": true
+        },
+        {
+          "id": "e4c2355ebdd7fae1",
+          "platform": "guidewire",
+          "title": "Guidewire Developer",
+          "company": "Zurich Insurance Group AG",
+          "verifiedEmployer": "Zurich Insurance Company Ltd.",
+          "country": "Switzerland",
+          "url": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Guidewire-Developer/1378298257/",
+          "source": "https://www.careers.zurich.com/job/Ciudad-de-M%C3%A9xico-Toreo-Guidewire-Developer/1378298257/",
+          "snippet": "Guidewire Developer",
+          "foundAt": "2026-11-24T14:03:05Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-23",
-      "postingCount": 13,
+      "asOf": "2026-11-24",
+      "postingCount": 15,
       "lastRun": {
-        "asOf": "2026-11-23",
-        "newCount": 0,
+        "asOf": "2026-11-24",
+        "newCount": 2,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -702,17 +715,43 @@
           "snippet": "Hands-on experience designing and configuring Duck Creek Policy and/or Billing modules Has a strong technical understanding of complex traditional and modern architectures and systems Fundamentally treats Produ",
           "foundAt": "2026-11-13T14:10:53Z",
           "verificationOk": true
+        },
+        {
+          "id": "7c936c51b6fd1497",
+          "platform": "duckcreek",
+          "title": "Lead Software Engineer",
+          "company": "Chubb Ltd.",
+          "verifiedEmployer": "Chubb External",
+          "country": "United States",
+          "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38436",
+          "source": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38436",
+          "snippet": "SCM) and DevSecOps group supporting the Duck Creek underwriting platform. You will own build, release and deployment pipelines, lead automation and DevSecOps practices across a global fleet of environ",
+          "foundAt": "2026-11-24T13:56:49Z",
+          "verificationOk": true
+        },
+        {
+          "id": "7ccefd92d0099e3e",
+          "platform": "duckcreek",
+          "title": "Senior Software Engineer",
+          "company": "Chubb Ltd.",
+          "verifiedEmployer": "Chubb External",
+          "country": "United States",
+          "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38437",
+          "source": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38437",
+          "snippet": "SCM) and DevSecOps group supporting the Duck Creek underwriting platform. You will run builds and deployments, maintain pipelines and automation, and support environments day to day. This is a platfor",
+          "foundAt": "2026-11-24T13:56:50Z",
+          "verificationOk": true
         }
       ]
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-23",
+      "asOf": "2026-11-24",
       "postingCount": 2,
       "lastRun": {
-        "asOf": "2026-11-23",
+        "asOf": "2026-11-24",
         "newCount": 0,
-        "insurersChecked": 50,
+        "insurersChecked": 49,
         "insurersAttempted": 50
       },
       "postings": [

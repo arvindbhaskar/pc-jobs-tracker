@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-24",
+  "generatedAt": "2026-11-25",
   "title": "P&C Core Systems Job Tracker",
   "subtitle": "Guidewire, Duck Creek & Majesco roles at the top ~50 global P&C insurers",
   "platforms": {
     "guidewire": {
       "label": "Guidewire",
-      "asOf": "2026-11-24",
-      "postingCount": 40,
+      "asOf": "2026-11-25",
+      "postingCount": 42,
       "lastRun": {
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "newCount": 2,
-        "insurersChecked": 49,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
@@ -533,16 +533,42 @@
           "snippet": "Guidewire Developer",
           "foundAt": "2026-11-24T14:03:05Z",
           "verificationOk": true
+        },
+        {
+          "id": "dbbfa97948c5b1f7",
+          "platform": "guidewire",
+          "title": "Engineer, Software Engineer",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101372-1",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
+          "snippet": "Farm Business. The team supports Commercial Lines PolicyCenter, a Guidewire product, and the broader Farm technology ecosystem, including application configuration and integration layers. Team members collaborate to deli",
+          "foundAt": "2026-11-25T13:56:43Z",
+          "verificationOk": true
+        },
+        {
+          "id": "c2bb547d965bb664",
+          "platform": "guidewire",
+          "title": "Specialist, Quality Engineer",
+          "company": "Nationwide Mutual Group",
+          "verifiedEmployer": "AB3 Nationwide Life and Annuity Insurance Co",
+          "country": "United States",
+          "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Iowa---Des-Moines-1100-Locust-Street/Specialist--Quality-Engineer_101373",
+          "source": "Workday nationwide.wd1.myworkdayjobs.com/nationwide_career",
+          "snippet": "he Farm Business, including Commercial Lines (CL) PolicyCenter. The associate will support the Udder Chaos team, working with CL PolicyCenter, a Guidewire product, and the broader Farm technology ecosystem, including its",
+          "foundAt": "2026-11-25T13:56:44Z",
+          "verificationOk": true
         }
       ]
     },
     "duckcreek": {
       "label": "Duck Creek",
-      "asOf": "2026-11-24",
+      "asOf": "2026-11-25",
       "postingCount": 15,
       "lastRun": {
-        "asOf": "2026-11-24",
-        "newCount": 2,
+        "asOf": "2026-11-25",
+        "newCount": 0,
         "insurersChecked": 50,
         "insurersAttempted": 50
       },
@@ -746,12 +772,12 @@
     },
     "majesco": {
       "label": "Majesco",
-      "asOf": "2026-11-24",
+      "asOf": "2026-11-25",
       "postingCount": 2,
       "lastRun": {
-        "asOf": "2026-11-24",
+        "asOf": "2026-11-25",
         "newCount": 0,
-        "insurersChecked": 49,
+        "insurersChecked": 50,
         "insurersAttempted": 50
       },
       "postings": [
